@@ -60,7 +60,7 @@ a:focus {
 
 .navbar-brand{
     background: url("/img/rally-logo.png");
-    background-size: 100%;
+    background-size: 25%;
     background-repeat: no-repeat;
 }
 .navbar-default .navbar-brand,
