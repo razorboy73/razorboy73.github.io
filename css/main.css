@@ -1750,6 +1750,11 @@ a.list-group-item-danger.active:focus {
   width: 33%;
   margin: 20px auto;
 }
+
+.emphasis{
+    font-weight: bold;
+    font-style: italic;
+}
 /*******Imagine*******/
 .imagine .thumb-list a {
   text-decoration: none;
