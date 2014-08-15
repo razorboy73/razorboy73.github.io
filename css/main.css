@@ -51,6 +51,14 @@ a:focus {
 /************************************************
 *** Navbar ***
 ************************************************/
+.navbar-nav.navbar-right:last-child {
+    margin-right: 0px;
+}
+.navbar-right {
+    float: 0px;
+}
+
+
 .navbar-default {
   background-color: #ffffff;
   border: none;
