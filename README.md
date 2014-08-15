@@ -21,6 +21,20 @@ this prototype site.
 The prototype site you have been delivered has all the copy that will be going 
 into the final site
 
+Deployment
+============
+This site is going to interface with a Django back end via an api and is going to serve as
+the starting point for clients to create an instance of r/ally for their organization
+
+Site Map
+===========
+home page
+ - thanksforsigningup
+ - confirmemail.html - once multitenancy is active
+ - signup.html
+ - team.html
+  - the user would then end up loggedin to the responsive web version of the application
+
 Images
 =========
 In the mock up there are many images that are serving as place holders that need
@@ -36,6 +50,9 @@ Fonts
 style the fonts with the same font as the data sheet
 
 
+site map
+========
+
 nav bar
 ===========
 center the logo in the white space - too far over to the left margin
@@ -46,6 +63,7 @@ select image for the background - want something that captures relaxtion/work/kn
 Font does not need to be white
 Forms
 Eventually this form is going to be the start of how users create their own version of our application
+Until that is ready we are going to a simple register in advance
 
 Imagine
 ====
