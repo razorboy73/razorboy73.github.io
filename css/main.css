@@ -1618,6 +1618,10 @@ a.list-group-item-danger.active:focus {
 *** Layout ***
 ************************************************/
 /***** General classes *****/
+
+.homepage-center{
+    text-align: center;
+}
 .section {
   padding: 70px 0;
 }
