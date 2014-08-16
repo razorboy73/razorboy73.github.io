@@ -64,6 +64,7 @@ Font does not need to be white
 Forms
 Eventually this form is going to be the start of how users create their own version of our application
 Until that is ready we are going to a simple register in advance
+add the user to our mailchimp account and promote our regular app
 
 Imagine
 ====
