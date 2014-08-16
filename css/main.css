@@ -51,14 +51,9 @@ a:focus {
 /************************************************
 *** Navbar ***
 ************************************************/
-.navbar-nav.navbar-right:last-child {
-    margin-right: 0px;
-}
-.navbar-right {
-    float: 0px;
-}
-
-
+/************************************************
+*** Navbar ***
+************************************************/
 .navbar-default {
   background-color: #ffffff;
   border: none;
@@ -73,33 +68,24 @@ a:focus {
 .navbar-default .navbar-nav > li.active > a:hover,
 .navbar-default .navbar-nav > li.active > a:focus {
   color: #ffffff;
-  background-color: #E24A37;
+  background-color: #f0605b;
   -webkit-box-shadow: 0 2px 0 #ec332c;
   box-shadow: 0 2px 0 #ec332c;
-}
-
-.navbar-brand{
-    background-size: 50%;
-    background-repeat: no-repeat;
-}
-
-.navbar-image{
-    width: 50%;
 }
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:active {
-  color: #E24A37;
+  color: #f0605b;
 }
 .navbar-default .navbar-toggle {
-  border-color: #E24A37;
+  border-color: #f0605b;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #f8f8f8;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #E24A37;
+  background-color: #f0605b;
 }
 .navbar {
   min-height: 70px;
@@ -135,7 +121,7 @@ a:focus {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #E24A37;
+  border-color: #f0605b;
 }
 .nav .nav-divider {
   height: 1px;
@@ -161,7 +147,7 @@ a:focus {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #E24A37;
+  background-color: #f0605b;
 }
 .nav-tabs-justified > .active > a,
 .nav-tabs-justified > .active > a:hover,
@@ -179,6 +165,9 @@ a:focus {
     border-bottom-color: #ffffff;
   }
 }
+/************************************************
+*** Buttons ***
+************************************************/
 /************************************************
 *** Buttons ***
 ************************************************/
