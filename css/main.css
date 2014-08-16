@@ -1720,7 +1720,7 @@ a.list-group-item-danger.active:focus {
 
 .transparent {
   background:#7f7f7f;
-  background:rgba(255,255,255,0.5);
+  background:rgba(255,255,255,0.4);
 }
 .pattern-overlay {
   position: absolute;
@@ -1755,6 +1755,11 @@ a.list-group-item-danger.active:focus {
 }
 
 .promo-block h3{
+    text-shadow: 2px 2px #000;
+}
+
+.shadow {
+    font-size: 18px;
     text-shadow: 2px 2px #000;
 }
 
