@@ -1717,6 +1717,11 @@ a.list-group-item-danger.active:focus {
   background-attachment: fixed;
   display: table;
 }
+
+.transparent {
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.5);
+}
 .pattern-overlay {
   position: absolute;
   width: 100%;
@@ -1734,6 +1739,7 @@ a.list-group-item-danger.active:focus {
 }
 .promo-block .lead {
   font-size: 48px;
+  text-shadow: 2px 2px #000;
 }
 .promo-block .buttons {
   margin: 30px 0;
@@ -1744,9 +1750,18 @@ a.list-group-item-danger.active:focus {
   margin: 20px auto;
 }
 
+.promo-block h2{
+    text-shadow: 2px 2px #000;
+}
+
+.promo-block h3{
+    text-shadow: 2px 2px #000;
+}
+
 .emphasis{
     font-weight: bold;
     font-style: italic;
+    text-shadow: 1px 1px #000;
 }
 /*******Imagine*******/
 .imagine .thumb-list a {
