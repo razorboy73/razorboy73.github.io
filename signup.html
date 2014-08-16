@@ -41,21 +41,30 @@
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                 Thank you!
               </div>
-              <form role="form">
-                      <div class="form-group">
-                        <label for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-                      </div>
-                      <div class="form-group">
-                        <label for="exampleInputPassword1">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                          <p class="help-block">Example block-level help text here.</p>
-                      </div>
+             <form role="form">
+                <div class="form-group">
+                    <input type="text" class="form-control" id="adminfirstname" placeholder="First Name">
+                   </div>
+                <div class="form-group">
+               <input type="text" class="form-control" id="adminlastname" placeholder="Last Name">
+                 </div>
+                 <div class="form-group">
+               <input type="email" class="form-control" id="Email" placeholder="youremail@domain.com">
+                 </div>
+                 <div class="form-group">
+               <input type="corporatedomains" class="form-control" id="corporatedomain" placeholder="company domain">
+                 </div>
+                 <p class = "text" style="color: black; text-align: left">Developer Note: This should set up the admin's profile in r/ally and give them access to the admin panel</p>
+                 <p class = "text" style="color: black; text-align: left">Separate multiple domain names by commas</p>
+                 <div class="checkbox">
+                <label>
+                  <input type="checkbox"> <p class = "text" style="color: black; text-align: left"> Allow anyone with an email address from the domains above to join (other wise you need to invite everyone manually)</p>
+                </label>
+                </div>
 
 
-                      <button type="submit" class="btn btn-default">Submit</button>
-
-              </form><!-- /input-group -->
+                <button type="submit" class="btn btn-primary">Invite Team Members</button>
+                </form><!-- /input-group -->
               <span class="help-block" id="helpBlock"></span>
             </div>
           </div>
