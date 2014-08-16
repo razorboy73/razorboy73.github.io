@@ -29,8 +29,8 @@
       <img src="img/rally-logo.png" alt="">
     </div> 
     <!-- ///  start promo  /// -->
-    <section class="promo static" style="background-image: url(img/main-bg3.jpg)">
-      <div class="promo-block text-center c-soon wow bounceIn" data-wow-duration="2s">
+    <section class="promo static">
+      <div class="promo-block text-center c-soon wow  transparent bounceIn" data-wow-duration="2s">
         <div class="container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-3">              
@@ -42,18 +42,29 @@
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                 Thank you!
               </div>
-              <form class="input-group input-group-lg" id="subscribeForm">
-                <input type="email" class="form-control" data-validation="email" placeholder="user@domain" id="sEmail" name="sEmail">
-                <br>
-                <input type="email" class="form-control" data-validation="email" placeholder="user@domain" id="sEmail" name="sEmail">
-                 <br>
-                <input type="email" class="form-control" data-validation="email" placeholder="user@domain" id="sEmail" name="sEmail">
-                 <br>
+             <form role="form">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                   </div>
+                <div class="form-group">
+               <label for="exampleInputPassword1">Password</label>
+                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                  <p>Add Another Invitation</p>
-                  <p>Upload CSV list of users</p>
-                  <button class="btn btn-primary" type="submit">Go r/ally</button>
-                </span>              
-              </form><!-- /input-group -->
+                </div>
+                 <div class="form-group">
+    <label for="exampleInputFile">File input</label>
+    <input type="file" id="exampleInputFile">
+    <p class="help-block">Upload CSV list of users.</p>
+    </div>
+    <div class="checkbox">
+    <label>
+      <input type="checkbox"> Check me out
+    </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Go r/ally</button>
+    </form>
+<!-- /input-group -->
               <span class="help-block" id="helpBlock"></span>
             </div>
           </div>

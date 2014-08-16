@@ -29,8 +29,8 @@
       <img src="img/rally-logo.png" alt="">
     </div> 
     <!-- ///  start promo  /// -->
-    <section class="promo static" style="background-image: url(img/main-bg3.jpg)">
-      <div class="promo-block text-center c-soon wow bounceIn" data-wow-duration="2s">
+    <section class="promo static">
+      <div class="promo-block text-center c-soon wow bounceIn transparent" data-wow-duration="2s">
         <div class="container">
           <div class="row">
             <div class="col-sm-6 col-sm-offset-3">              
@@ -41,23 +41,20 @@
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                 Thank you!
               </div>
-              <form class="input-group input-group-lg" id="subscribeForm">
-                <input type="email" class="form-control" data-validation="email" placeholder="First Name" id="sEmail" name="sEmail">
-                <br>
-                <input type="email" class="form-control" data-validation="email" placeholder="Last Name" id="sEmail" name="sEmail">
-                 <br>
-                <input type="email" class="form-control" data-validation="email" placeholder="Pick a name for your Team" id="sEmail" name="sEmail">
-                 <p>Your team name will serve as your personal url.  It can only contain lowercase letters, numbers and dashes</p>
-                  <br>
+              <form role="form">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                      </div>
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Password</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                          <p class="help-block">Example block-level help text here.</p>
+                      </div>
 
-                  <input class="form-control" type="text" placeholder="Email Domain">
-                  <p> <input type="checkbox" name="domainallowed" id=""/>You can
-                      allow anyone in your domain to sign
-                      up by themselves if they have a corporate email address.  Separate
-                      multiple domains with a comma.</p>
 
-                  <a href="team.html" class="btn btn-primary" type="submit">Invite Team Members</a>
-                </span>              
+                      <button type="submit" class="btn btn-default">Submit</button>
+
               </form><!-- /input-group -->
               <span class="help-block" id="helpBlock"></span>
             </div>
