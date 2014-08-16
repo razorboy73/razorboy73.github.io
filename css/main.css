@@ -100,7 +100,7 @@ a:focus {
 .navbar-logo{
     background-image: url(../img/rally-logo.png) ;
     background-repeat: no-repeat;
-     background-position: 10%;
+    background-position: 10%;
 }
 .navbar-toggle {
   margin-right: 15px;
