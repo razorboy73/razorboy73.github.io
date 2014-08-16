@@ -91,10 +91,16 @@ a:focus {
   min-height: 70px;
 }
 .navbar-brand {
-  font-size: 29px;
-  line-height: 70px;
-  padding: 0 30px;
-  font-weight: 400;
+    font-size: 29px;
+    line-height: 70px;
+    padding: 0 30px;
+    font-weight: 400;
+
+}
+.navbar-logo{
+    background-image: url(../img/rally-logo.png) ;
+    background-repeat: no-repeat;
+     background-position: 10%;
 }
 .navbar-toggle {
   margin-right: 15px;
