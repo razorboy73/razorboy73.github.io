@@ -1713,19 +1713,35 @@ a.list-group-item-danger.active:focus {
   height: 100%;
   min-height: 100%;
   position: relative;
-  background-image: url(../img/background-with-image.png)
-  background-repeat: no-repeat;
-  background-position: top center;
+
+}
+
+
+.rally-text-logo-grey{
+    color:#5F5E5D;
+
+}
+.rally-text-logo-red{
+    color:#DE4A37;
+
 }
 .promo.static {
   background-attachment: fixed;
   display: table;
-  background-image: url(../img/background-with-image.png)
+  position: static;
 }
+
+.background-top {
+  background:url(../img/stock-photo-27635558-businessman-with-feet-up-drinking-coffee-and-text-messaging.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
 
 .transparent {
   background:#7f7f7f;
-  background:rgba(255,255,255,0.6);
+  background:rgba(255,255,255,0.3);
 }
 .pattern-overlay {
   position: absolute;
@@ -1771,7 +1787,7 @@ a.list-group-item-danger.active:focus {
 .emphasis{
     font-weight: bold;
     font-style: italic;
-    text-shadow: 1px 1px #000;
+    text-shadow: 1px 2px #000;
 }
 /*******Imagine*******/
 .imagine .thumb-list a {

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
+<head>
     <meta charset="utf-8">
     <title>r/ally</title>
     <meta name="description" content="BigPro gelevanog">
@@ -9,62 +9,102 @@
     <!-- ///  google font - Open Sans  /// -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700' rel='stylesheet' type='text/css'>
     <!-- ///  font awesome - iconic font  /// -->
-    <link href="/static/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- ///  eleagant font - iconic font  /// -->
-    <link href="/static/fonts/elegant-font/style.css" rel="stylesheet">
+    <link href="fonts/elegant-font/style.css" rel="stylesheet">
     <!-- ///  bootsrap css - framework  /// -->
-    <link href="/static/css/bootstrap-3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-3.1.1/css/bootstrap.min.css" rel="stylesheet">
     <!-- ///  all plugins  /// -->
-    <link href="/static/css/plugins/plugins.css" rel="stylesheet">
+    <link href="css/plugins/plugins.css" rel="stylesheet">
     <!-- ///  main css  /// -->
-    <link href="/static/css/main.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--///landing css ///-->
+    <link href="css/landing.css" rel="stylesheet">
     <!-- ///  responsive css  /// -->
-    <link href="/static/css/responsive.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
   </head>
   <body>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <div class="preloader">
-      <img src="assets/img/Preloader_8.gif" alt="">
-    </div> 
+    <nav class="navbar navbar-default landing-page" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+
+      <a class="navbar-brand" href="#"><img class="nav-logo" src="img/rally-logo-large.png"></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+   
+  </div><!-- /.container-fluid -->
+</nav>
     <!-- ///  start promo  /// -->
-    <section class="promo static" style="background-image: url('static/img/main-bg3.jpg')">
+    <section class="promo static landing-background-top ">
+
       <div class="promo-block text-center c-soon wow bounceIn" data-wow-duration="2s">
-        <div class="container">
+        <div class="container top-container">
           <div class="row">
-            <div class="col-sm-6 col-sm-offset-3">              
-              <h1 class="lead">WE WILL BE BACK SOON!</h1>
-              <hr>
+            <div class="col-sm-12">
+              <h1 class="lead">Uncover your organization's knowledge</h1>
+               <hr>
+
+              <div class="row below-sign-up">
+
+                      <div class="col-sm-4 ">
+                        <div class="icon-wrapper">
+                          <i class="fa fa-search-plus fa-5x"></i>
+                        </div>
+                        <div class="text-section">
+                          <h3>Uncover Hidden Expertise</h3>
+
+
+                        </div>
+                      </div>
+                      <div class="col-sm-4">
+                        <div class="icon-wrapper">
+                          <i class="fa fa-exchange fa-5x"></i>
+                        </div>
+                        <div class="text-section">
+                          <h3>Match Projects & Skills</h3>
+
+
+                        </div>
+                      </div>
+                      <div class="col-sm-4">
+                        <div class="icon-wrapper">
+                          <i class="fa fa-map-marker fa-5x"></i>
+                        </div>
+                        <div class="text-section">
+                          <h3>Map Institutional Knowledge</h3>
+
+                           </div>
+                   </div>
+                  </div>
+
+                  <hr>
+                  <h3>Get your organization on r/ally</h3>
+
+
+
+
               <!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
-              <div class="countdown clearfix" id="countdown" data-date="2015/07/26">
-                <div class="col-sm-3 item">
-                  <div class="digit" id="days">0</div>
-                  <p>days</p>
-                </div>
-                <div class="col-sm-3 item">
-                  <div class="digit" id="hours">0</div>
-                  <p>hours</p>
-                </div>
-                <div class="col-sm-3 item">
-                  <div class="digit" id="minutes">0</div>
-                  <p>minutes</p>
-                </div>
-                <div class="col-sm-3 item">
-                  <div class="digit" id="seconds">0</div>
-                  <p>seconds</p>
-                </div>
-              </div>
+
               <div class="alert alert-success alert-dismissable" style="display:none" id="contactUsAlert">
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                 Thank you!
               </div>
               <form class="input-group input-group-lg" id="subscribeForm">
-                <input type="email" class="form-control" data-validation="email" placeholder="EMAIL" id="sEmail" name="sEmail">
+                <input type="email" class="form-control" data-validation="email" placeholder="Sign up for your organization's invitation to r/ally" id="sEmail" name="sEmail">
                 <span class="input-group-btn">
-                  <button class="btn btn-primary" type="submit">Subscribe</button>
+                  <button class="btn btn-primary" type="submit">Invite Me!</button>
                 </span>              
               </form><!-- /input-group -->
+              <div class="row below-sign-up">
+                   <h2>r/ally is a SaaS tool that identifies skills and knowledge within your organization</h2>
+
+            </div>
+      </div>
               <span class="help-block" id="helpBlock"></span>
               <ul class="list-inline contact-us">
                 <li><a href="" class="btn btn-white btn-lg"><i class="fa fa-envelope"></i></a></li>
@@ -74,23 +114,24 @@
             </div>
           </div>
         </div>
-      </div>           
+
     </section>
     
    
     <!-- ///  start scripts  /// -->
-    <script src="/static/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-    <script src="/static/js/libs/jquery-1.11.0.min.js"></script>
-    <script src="/static/js/plugins/gmap3/gmap3.min.js"></script>
-    <script src="/static/js/plugins/isotope/isotope.pkgd.min.js"></script>
-    <script src="/static/js/plugins/lightbox/lightbox.min.js"></script>
-    <script src="/static/js/plugins/scrollTo/jquery.scrollTo.js"></script>
-    <script src="/static/js/plugins/nav/jquery.nav.js"></script>
-    <script src="/static/css/bootstrap-3.1.1/js/bootstrap.min.js"></script>
-    <script src="/static/js/plugins/countdown/countdown.js"></script>
-    <script src="/static/js/plugins/placeholder/jquery.placeholder.js"></script>
-    <script src="/static/js/plugins/validator/jquery.form-validator.min.js"></script>
-    <script src="/static/js/plugins/wow/wow.min.js"></script>
-    <script src="/static/js/main.js"></script>
+<!-- ///  start scripts  /// -->
+    <script src="js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="js/libs/jquery-1.11.0.min.js"></script>
+    <script src="js/plugins/gmap3/gmap3.min.js"></script>
+    <script src="js/plugins/isotope/isotope.pkgd.min.js"></script>
+    <script src="js/plugins/lightbox/lightbox.min.js"></script>
+    <script src="js/plugins/scrollTo/jquery.scrollTo.js"></script>
+    <script src="js/plugins/nav/jquery.nav.js"></script>
+    <script src="css/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+    <script src="js/plugins/countdown/countdown.js"></script>
+    <script src="js/plugins/placeholder/jquery.placeholder.js"></script>
+    <script src="js/plugins/validator/jquery.form-validator.min.js"></script>
+    <script src="js/plugins/wow/wow.min.js"></script>
+    <script src="js/main.js"></script>
   </body>
 </html>
