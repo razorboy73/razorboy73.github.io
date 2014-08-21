@@ -31,32 +31,32 @@ rallyvanity-onboarding.html
 -----------------------
  - this version of the the site includes a multipage on boarding sequence that allows users to create an instance of rally
  - the user will progress through the following pages to create an instance of rally
-    rallyvanity-onboarding.html - enter an email and user name
-    confirmemail.html - email confirmation - this has a button to simulate clicking a confirmation link from your email
-    signup.html - administrative items
-    team.htm - sends off invitations to team mates - from here the adminstrator would be taken to their instance
+   -- rallyvanity-onboarding.html - enter an email and user name
+   -- confirmemail.html - email confirmation - this has a button to simulate clicking a confirmation link from your email
+   -- signup.html - administrative items
+   -- team.htm - sends off invitations to team mates - from here the adminstrator would be taken to their instance
  
 Landing pages
 ----------------
  - also on an ongoing basis, we will be testing various landing page designs and messaging - my poorly designed mock ups can be seen at:
-   coming-soon.html
-   landingtemplate2.html
+   -- coming-soon.html
+   -- landingtemplate2.html
  
  
 
 Color Schemes to use in website - they match with new web app
 ====================
-Primary Colors
-grey - 95/94/93 - 5F5E5D
-Red - 226/74/55
-Secondary
-grey - 180/113/98
-Red 232/113/98 #E87162
+-Primary Colors
+-- grey - 95/94/93 - 5F5E5D
+-- Red - 226/74/55
+- Secondary
+-- grey - 180/113/98
+-- Red 232/113/98 #E87162
 
 Blues
 
-Blue -  #418ac9.
-Blue Hover  which is slightly darker: #347dbc.
+- Blue -  #418ac9.
+- Blue Hover  which is slightly darker: #347dbc.
 
 Design and implementation approach
 ==================
@@ -71,14 +71,6 @@ Deployment
 This site is going to interface with a Django back end via an api and is going to serve as
 the starting point for clients to create an instance of r/ally for their organization
 
-Site Map
-===========
-home page
- - thanksforsigningup
- - confirmemail.html - once multitenancy is active
- - signup.html
- - team.html
-  - the user would then end up loggedin to the responsive web version of the application
 
 Images
 =========
