@@ -1,0 +1,167 @@
+@font-face {
+    font-family:league;
+    src: url(../fonts/LeagueGothic-Regular.otf);
+}
+
+body {
+    font-family: Arvo, "Helvetica Neue", Arial, Helvetica, Geneva, "sans-serif";
+    font-size: 16px;
+
+}
+
+
+
+
+
+/*****/
+/**nav bar*/
+/*****/
+
+.navbar {
+    background-color: transparent;
+    border: none;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+.navbar-brand img{
+    max-width: 50%;
+
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    opacity:0.3;
+    color: #fefefe;
+    padding-top: 25px;
+    padding-bottom: 10px;
+
+}
+/*********/
+/** Jumbotron*/
+/********/
+
+.jumbotron{
+    background: url('../img/bg-computer.jpg') no-repeat center;
+   background-size: cover;
+     -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    border-top: 300px red;
+    margin-top: -65px;
+
+
+
+}
+
+.jumbotron h1{
+    padding: 10px;
+    text-align: center;
+    margin: 10px 20px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: rgba(0,0,0.1);
+    text-shadow: 1px 1px 3px #333;
+
+}
+
+.jumbotron h2{
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 10px;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: rgba(0,0,0.1);
+    text-shadow: 1px 1px 3px #333;
+
+}
+
+.rally-text-logo-grey{
+    color:#5F5E5D;
+
+}
+.rally-text-logo-red{
+    color:#DE4A37;
+
+}
+
+.jumbotron .highlight{
+    font-weight: 700;
+    color: #2a6496;
+}
+
+
+#bottom-section .col-md-4{
+    min-height: 300px;
+    background-color: lightgreen;
+    margin-bottom: 25px;
+
+
+}
+
+#bottom-section .col-md-12.top {
+    width: 90%;
+    min-height: 100px;
+    background-color: pink;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    color: #ffff00;
+    font-family: 'Arvo', courier new, serif;
+    font-weight: 800;
+    font-size: 46px;
+    text-align: center;
+    vertical-align:middle
+
+}
+
+
+#bottom-section .col-md-12.top:hover {
+   color: #000000;
+    background-color: #000000;
+    opacity: .3;
+
+}
+
+#bottom-section .col-md-12.bottom {
+
+    background-color: blue;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    color: #ffff00;
+    font-family: 'Arvo', courier new, serif;
+    font-weight: 500;
+    font-size: 34px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#bottom-section .col-md-4 .btn-lg{
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+
+footer {
+    font-weight: 100;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand{
+        width: 25%;
+    }
+    .jumbotron h1{
+        font-size: 25px;
+
+    }
+    .nav .navbar-nav .navbar-right {
+        border: 0px;
+
+    }
+    .jumbotron {
+        margin-top: -245px;
+    }
+}
