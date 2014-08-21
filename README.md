@@ -31,10 +31,10 @@ rallyvanity-onboarding.html
 -----------------------
  - this version of the the site includes a multipage on boarding sequence that allows users to create an instance of rally
  - the user will progress through the following pages to create an instance of rally
-   -- rallyvanity-onboarding.html - enter an email and user name
-   -- confirmemail.html - email confirmation - this has a button to simulate clicking a confirmation link from your email
-   -- signup.html - administrative items
-   -- team.htm - sends off invitations to team mates - from here the adminstrator would be taken to their instance
+   ## rallyvanity-onboarding.html - enter an email and user name
+   ## confirmemail.html - email confirmation - this has a button to simulate clicking a confirmation link from your email
+   ## signup.html - administrative items
+   ## team.htm - sends off invitations to team mates - from here the adminstrator would be taken to their instance
  
 Landing pages
 ----------------
@@ -47,11 +47,11 @@ Landing pages
 Color Schemes to use in website - they match with new web app
 ====================
 -Primary Colors
--- grey - 95/94/93 - 5F5E5D
--- Red - 226/74/55
-- Secondary
--- grey - 180/113/98
--- Red 232/113/98 #E87162
+# grey - 95/94/93 - 5F5E5D
+# Red - 226/74/55
+# Secondary
+# grey - 180/113/98
+# Red 232/113/98 #E87162
 
 Blues
 
