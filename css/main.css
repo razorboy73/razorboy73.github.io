@@ -650,6 +650,13 @@ fieldset[disabled] .btn-link:focus {
   line-height: 1.5;
   border-radius: 3px;
 }
+
+.btn-add-field{
+	color: #333;
+	display: block;
+	text-align: left;
+}
+
 /************************************************
 *** Typography ***
 ************************************************/
@@ -855,6 +862,9 @@ input[type="date"] {
 .form-group {
   margin-bottom: 12px;
 }
+.form-group input[type="file"]{
+	display: inline-block;
+}
 .radio,
 .checkbox {
   display: block;
@@ -1059,6 +1069,15 @@ select[multiple].input-lg {
   top: 0;
   right: 15px;
 }
+
+#invite-form{
+	padding: 20px 0;
+}
+	#invite-form h2, #invite-form span, #invite-form h3{
+		font-weight: 300;
+	}
+
+
 /************************************************
 *** Progress ***
 ************************************************/
@@ -1718,8 +1737,13 @@ a.list-group-item-danger.active:focus {
 	}
 	.main-header.fixed .navbar-brand img{
 		display: block;
-		margin: 5px auto;
-		width: 90%;
+		margin: 8px auto;
+		width: 80%;
+	}
+	@media (max-width: 768px) {
+		.main-header.sticky .navbar-brand img{
+			width: 90% !important;
+		}
 	}
 	.main-header.sticky .navbar-brand img{
 		width: 60%;
@@ -1886,36 +1910,44 @@ a.list-group-item-danger.active:focus {
   margin-bottom: 20px;
 }
 /***** Services *****/
-.services .icon-wrapper {
+.services .icon-wrapper,
+.skills .icon-wrapper,
+.work .icon-wrapper,
+.team .icon-wrapper,
+.c-soon .icon-wrapper {
   width: 127px;
   height: 127px;
   text-align: center;
   margin: 0 auto;
 }	
-.services .icon-wrapper span {
+.services .icon-wrapper span,
+.skills .icon-wrapper span,
+.work .icon-wrapper span,
+.team .icon-wrapper span,
+.c-soon .icon-wrapper span {
 	display: block;
 	width: 100%;
 	height: 100%;
 }
-	.services .icon-wrapper span.icon01 {
+	.icon-wrapper span.icon01 {
 		background-image: url(../img/icons/icon01-180x180.png);
 		background-size: 90px 90px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.services .icon-wrapper span.icon02 {
+	.icon-wrapper span.icon02 {
 		background-image: url(../img/icons/icon02-180x160.png);
 		background-size: 90px 80px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.services .icon-wrapper span.icon03 {
+	.icon-wrapper span.icon03 {
 		background-image: url(../img/icons/icon03-180x168.png);
 		background-size: 90px 84px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.services .icon-wrapper span.icon04 {
+	.icon-wrapper span.icon04 {
 		background-image: url(../img/icons/icon04-240x138.png);
 		background-size: 120px 70px;
 		background-repeat: no-repeat;
@@ -1955,35 +1987,31 @@ a.list-group-item-danger.active:focus {
   color: #ffffff;
   border-color:#E24A37;
 }
-.work .icon-wrapper {
-  width: 127px;
-  height: 127px;
-  text-align: center;
-  margin: 0 auto;
-}	
-.work .icon-wrapper span {
-	display: block;
-	width: 100%;
-	height: 100%;
+@media (max-width: 768px) {
+	.work .sub-heading iframe{
+		width: 100%;
+		height: 250px;
+	}
 }
-	.work .icon-wrapper span.icon05 {
+	.icon-wrapper span.icon05 {
 		background-image: url(../img/icons/icon05-180x180.png);
 		background-size: 90px 90px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.work .icon-wrapper span.icon06 {
+	.icon-wrapper span.icon06 {
 		background-image: url(../img/icons/icon06-180x174.png);
 		background-size: 90px 88px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.work .icon-wrapper span.icon07 {
+	.icon-wrapper span.icon07 {
 		background-image: url(../img/icons/icon07-180x172.png);
 		background-size: 90px 86px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
+	
 .work .text-section {
   text-align: center;
 }
@@ -2072,35 +2100,25 @@ a.list-group-item-danger.active:focus {
   font-weight: 700;
 }
 
-.team .icon-wrapper {
-  width: 127px;
-  height: 127px;
-  text-align: center;
-  margin: 0 auto;
-}	
-.team .icon-wrapper span {
-	display: block;
-	width: 100%;
-	height: 100%;
-}
-	.team .icon-wrapper span.icon08 {
+	.icon-wrapper span.icon08 {
 		background-image: url(../img/icons/icon08-148x180.png);
 		background-size: 74px 90px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.team .icon-wrapper span.icon09 {
+	.icon-wrapper span.icon09 {
 		background-image: url(../img/icons/icon09-148x180.png);
 		background-size: 74px 90px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
-	.team .icon-wrapper span.icon10 {
+	.icon-wrapper span.icon10 {
 		background-image: url(../img/icons/icon10-182x126.png);
 		background-size: 91px 63px;
 		background-repeat: no-repeat;
 		background-position: center center;
 	}
+	
 .team .text-section {
   text-align: center;
 }
@@ -2117,53 +2135,50 @@ a.list-group-item-danger.active:focus {
   font-size: 18px;
 }
 
-.skills .icon-wrapper {
-  width: 127px;
-  height: 127px;
-  text-align: center;
-  margin: 0 auto;
-}	
-.skills .icon-wrapper span {
-	display: block;
-	width: 100%;
-	height: 100%;
-}
-	.skills .icon-wrapper span.icon11 {
+	.icon-wrapper span.icon11 {
 		background-image: url(../img/icons/icon11-180x120.png);
 		background-size: 90px 60px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
-	.skills .icon-wrapper span.icon12 {
+	.icon-wrapper span.icon12 {
 		background-image: url(../img/icons/icon12-180x152.png);
 		background-size: 90px 76px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
-	.skills .icon-wrapper span.icon13 {
+	.icon-wrapper span.icon13 {
 		background-image: url(../img/icons/icon13-180x132.png);
 		background-size: 90px 66px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
-	.skills .icon-wrapper span.icon14 {
+	.icon-wrapper span.icon14 {
 		background-image: url(../img/icons/icon14-180x112.png);
 		background-size: 90px 56px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
-	.skills .icon-wrapper span.icon15 {
+	.icon-wrapper span.icon15 {
 		background-image: url(../img/icons/icon15-182x102.png);
 		background-size: 92px 52px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
-	.skills .icon-wrapper span.icon16 {
+	.icon-wrapper span.icon16 {
 		background-image: url(../img/icons/icon16-171x182.png);
 		background-size: 86px 92px;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 	}
+	
+	.icon-wrapper span.icon17 {
+		background-image: url(../img/icons/icon17-172x182.png);
+		background-size: 86px 92px;
+		background-repeat: no-repeat;
+		background-position: bottom center;
+	}
+	
 .skills .text-section {
   text-align: center;
 }
@@ -2455,7 +2470,20 @@ a.list-group-item-danger.active:focus {
 		#footer-nav li a{
 			color: #fff;
 		}
-	
+@media (max-width: 768px) {
+	#footer-nav{
+		margin: 0;
+		list-style: none;
+		text-align: left;
+	}
+		#footer-nav li{
+			display: block;
+			padding: 0 0 0 10px;
+			margin: 20px 0 0 10px;
+			border: 0;
+		}
+}
+		
 /************************************************
 *** Blog ***
 ************************************************/

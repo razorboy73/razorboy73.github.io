@@ -33,16 +33,17 @@
       <div class="promo-block text-center c-soon wow  transparent bounceIn" data-wow-duration="2s">
         <div class="container">
           <div class="row">
-            <div class="col-sm-6 col-sm-offset-3">              
-              <h1 class="lead">invite your colleagues to r/ally</h1>
-              <hr>
-              <!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
+            <div class="col-sm-8 col-sm-offset-2">              
+              <h1 class="lead">Invite Your Colleagues to <img src="img/rally-logo.png" alt="" style="margin:-25px 0 0 5px;" /></h1>
+            </div>
+			<div class="col-sm-6 col-sm-offset-3">
+				<!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
 
               <div class="alert alert-success alert-dismissable" style="display:none" id="contactUsAlert">
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                 Thank you!
               </div>
-             <form role="form">
+             <form id="invite-form" role="form">
                 <div class="form-group">
                     <input type="email" class="form-control" id="Email1" placeholder="email@domain.com">
                    </div>
@@ -58,22 +59,19 @@
                  <div class="form-group">
                <input type="email" class="form-control" id="Email5" placeholder="email@domain.com">
                  </div>
-                 <p class = "text" style="color: black; text-align: left">Add Another Invitation - note to developer this should add another field</p>
+				 <a href="#" class="btn-add-field">Add Another Invitation</a>
+                 <!--<p class = "text" style="color: black; text-align: left">Add Another Invitation - note to developer this should add another field</p>-->
                  <div class="form-group">
-                 <h2>Invite people in bulk</h2>
-                 <h3>Upload CSV list of users</h3>
-                <label for="exampleInputFile"></label>
-                <input type="file" id="exampleInputFile">
-                 <h3>Add contacts from your address book</h3>
-                  <h3>Invite work colleagues from Linkedin</h3>
-
+					<h2>Invite people in bulk</h2>
+					<span>Upload CSV list of users</span>
+					<input type="file" id="exampleInputFile">
+					<h3>Add contacts from your address book<br/> Invite work colleagues from Linkedin</h3>
                 </div>
-
-                <button type="submit" class="btn btn-primary">Go r/ally</button>
+				
+                <button type="submit" class="btn btn-lg bg-primary">Invite Team Members</button>
                 </form>
 <!-- /input-group -->
-
-            </div>
+			</div>
           </div>
         </div>
       </div>           
