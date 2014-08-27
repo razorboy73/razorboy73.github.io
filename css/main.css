@@ -1058,15 +1058,27 @@ select[multiple].input-lg {
   padding-top: 10px;
 }
 
-.form-inline-alt .form-group{
+.form-inline-alt{
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.form-inline-alt .form-group-small{
 	width: 32%;
 	margin-right: 2%;
 	float: left;
 }
-	.form-inline-alt .form-group:last-child{
+	.form-inline-alt .form-group-small:last-child{
 		margin: 0;
 	}
-
+@media (max-width: 768px) {
+	
+	.form-inline-alt .form-group-small{
+		width: 100%;
+		margin-right: 0;
+		float: left;
+	}
+}
 @media (min-width: 768px) {
   .form-horizontal .control-label {
     text-align: right;
