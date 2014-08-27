@@ -220,6 +220,17 @@
         $("body").removeClass("remove-scroll")
       });
     }
+	
+	//Add New Invite Field
+	function addInviteField(){
+		$("a.btn-add-field").on('click', function(e){
+			e.preventDefault();
+			var instance = $(this).parent().find('.form-group:last-child').clone();
+			var last_id = $(this).parent().find('.form-group:last-child input').attr('id').replace('Email','');
+			instance.find('input').attr('id', 'Email'+(parseInt(last_id)+1));
+			$('.invite-field-wrapper').append(instance);
+		});
+	}
 
     return {
       init: function () {
@@ -232,6 +243,7 @@
         countdown()
         placeholderIE()
         validateAndSend()
+		addInviteField()
       }
     }
   }();

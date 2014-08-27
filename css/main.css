@@ -656,6 +656,10 @@ fieldset[disabled] .btn-link:focus {
 	display: block;
 	text-align: left;
 }
+	.btn-add-field:hover{
+		color: #333;
+		text-decoration: underline;
+	}
 
 /************************************************
 *** Typography ***
@@ -727,9 +731,12 @@ a.text-danger:hover {
   color: #fff;
   background-color:#418ac9;
   border-bottom: 2px solid #246AA6;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
 }
 a.bg-primary:hover {
-  background-color: #ec332c;
+  background-color: #418ac9;
 }
 .bg-success {
   background-color: #dff0d8;
@@ -1076,7 +1083,11 @@ select[multiple].input-lg {
 	#invite-form h2, #invite-form span, #invite-form h3{
 		font-weight: 300;
 	}
-
+.input-group-lg>.form-control, .input-group-lg>.input-group-addon, .input-group-lg>.input-group-btn>.btn{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
 
 /************************************************
 *** Progress ***
@@ -1675,6 +1686,7 @@ a.list-group-item-danger.active:focus {
 }
 .sub-heading {
   font-size: 18px;
+  line-height: 28px;
   color: #333;
   text-align: center;
   margin-bottom: 35px;
@@ -1801,7 +1813,30 @@ a.list-group-item-danger.active:focus {
   background-position: top center;
   background-size: cover;
 }
-
+	.confirm-page-background-top{
+		background:url(../img/confirm-bg.jpg);
+		background-repeat: no-repeat;
+		background-position: top center;
+		background-size: cover;
+	}
+	.team-page-background-top{
+		background:url(../img/team-bg.jpg);
+		background-repeat: no-repeat;
+		background-position: top center;
+		background-size: cover;
+	}
+	.signup-page-background-top{
+		background:url(../img/signup-bg.jpg);
+		background-repeat: no-repeat;
+		background-position: top center;
+		background-size: cover;
+	}
+	.comingsoon-page-background-top{
+		background:url(../img/comingsoon-bg.jpg);
+		background-repeat: no-repeat;
+		background-position: top center;
+		background-size: cover;
+	}
 
 .transparent {
   background:#7f7f7f;
@@ -1822,9 +1857,13 @@ a.list-group-item-danger.active:focus {
   color: #000;
   padding: 0 15px;
 }
+	.promo-block.padded{
+		padding: 20px 0;
+	}
+	
 .promo-block .lead {
   font-size: 48px;
-  text-shadow: 1px 1px #fff;
+  text-shadow: 1px 1px rgba(255, 255, 255, 0.6);
   font-weight: 300;
 }
 .promo-block .buttons {
@@ -1840,16 +1879,22 @@ a.list-group-item-danger.active:focus {
 }
 
 .promo-block h2{
-    text-shadow: 1px 1px #fff;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 34px;
 }
 
 .promo-block h3{
-    text-shadow: 1px 1px #fff;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 34px;
 }
 
 .shadow {
     font-size: 18px;
-    text-shadow: 1px 1px #fff;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
 }
 
 .emphasis{
@@ -1933,36 +1978,27 @@ a.list-group-item-danger.active:focus {
 		background-image: url(../img/icons/icon01-180x180.png);
 		background-size: 90px 90px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon02 {
 		background-image: url(../img/icons/icon02-180x160.png);
 		background-size: 90px 80px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon03 {
 		background-image: url(../img/icons/icon03-180x168.png);
 		background-size: 90px 84px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon04 {
 		background-image: url(../img/icons/icon04-240x138.png);
 		background-size: 120px 70px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
-.services .text-section {
-  text-align: center;
-}
-.services .text-section h3 {
-  margin: 25px 0;
-}
-.services .text-section p {
-  color: #333;
-  margin-bottom: 25px;
-}
+
 /***** work *****/
 .work .filter-buttons {
   text-align: center;
@@ -1997,31 +2033,21 @@ a.list-group-item-danger.active:focus {
 		background-image: url(../img/icons/icon05-180x180.png);
 		background-size: 90px 90px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon06 {
 		background-image: url(../img/icons/icon06-180x174.png);
 		background-size: 90px 88px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon07 {
 		background-image: url(../img/icons/icon07-180x172.png);
 		background-size: 90px 86px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	
-.work .text-section {
-  text-align: center;
-}
-.work .text-section h3 {
-  margin: 25px 0;
-}
-.work .text-section p {
-  color: #333;
-  margin-bottom: 25px;
-}
 .portfolio-list {
   padding-top: 25px;
 }
@@ -2104,31 +2130,20 @@ a.list-group-item-danger.active:focus {
 		background-image: url(../img/icons/icon08-148x180.png);
 		background-size: 74px 90px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon09 {
 		background-image: url(../img/icons/icon09-148x180.png);
 		background-size: 74px 90px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
 	.icon-wrapper span.icon10 {
 		background-image: url(../img/icons/icon10-182x126.png);
 		background-size: 91px 63px;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: bottom center;
 	}
-	
-.team .text-section {
-  text-align: center;
-}
-.team .text-section h3 {
-  margin: 25px 0;
-}
-.team .text-section p {
-  color: #333;
-  margin-bottom: 25px;
-}
 
 /***** skills *****/
 .skills p {
@@ -2179,14 +2194,22 @@ a.list-group-item-danger.active:focus {
 		background-position: bottom center;
 	}
 	
-.skills .text-section {
+.skills .text-section,
+.work .text-section,
+.team .text-section {
   text-align: center;
 }
-.skills .text-section h3 {
+.skills .text-section h3,
+.work .text-section h3,
+.team .text-section h3{
   margin: 25px 0;
 }
-.skills .text-section p {
+.skills .text-section p,
+.work .text-section p,
+.team .text-section p {
   color: #333;
+  font-size: 14px;
+  line-height: 22px;
   margin-bottom: 25px;
 }
 
@@ -2233,6 +2256,7 @@ a.list-group-item-danger.active:focus {
   color: #fff;
   line-height: 1;
   background: #418ac9;
+  text-shadow: 1px 1px #000;
 }
 	.pricing .price-column.popular h3{
 		background: #e24a37;
@@ -2270,6 +2294,7 @@ a.list-group-item-danger.active:focus {
 }
 .pricing .price-column .cost.cost-permonth span{
 	padding:40px 0;
+	color: #2F3A45;
 }
 	.pricing .price-column .cost span small{
 		display: block;
