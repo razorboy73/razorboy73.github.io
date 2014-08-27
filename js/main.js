@@ -254,3 +254,24 @@
     App.init()
   })
 }(window.jQuery);
+
+//Vertical Centering
+function verticalCentering(){
+	if($(".vcentered").length != 0){
+		var window_height = $(this).height();
+		var height = $(".vcentered").innerHeight();
+		$(".vcentered").css({
+			'position' : 'fixed',
+			'width' : '100%',
+			'top' : '50%',
+			'margin-top' : '-'+ (height/2) +'px'
+		});
+	}
+}
+
+$(window).load(function(){
+	verticalCentering();
+});		
+$(window).resize(function(){
+	verticalCentering();
+});	
