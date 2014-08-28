@@ -220,6 +220,17 @@
         $("body").removeClass("remove-scroll")
       });
     }
+	
+	//Add New Invite Field
+	function addInviteField(){
+		$("a.btn-add-field").on('click', function(e){
+			e.preventDefault();
+			var instance = $(this).parent().find('.form-group:last-child').clone();
+			var last_id = $(this).parent().find('.form-group:last-child input').attr('id').replace('Email','');
+			instance.find('input').attr('id', 'Email'+(parseInt(last_id)+1));
+			$('.invite-field-wrapper').append(instance);
+		});
+	}
 
     return {
       init: function () {
@@ -232,6 +243,7 @@
         countdown()
         placeholderIE()
         validateAndSend()
+		addInviteField()
       }
     }
   }();
@@ -242,3 +254,24 @@
     App.init()
   })
 }(window.jQuery);
+
+//Vertical Centering
+function verticalCentering(){
+	if($(".vcentered").length != 0){
+		var window_height = $(this).height();
+		var height = $(".vcentered").innerHeight();
+		$(".vcentered").css({
+			'position' : 'fixed',
+			'width' : '100%',
+			'top' : '50%',
+			'margin-top' : '-'+ (height/2) +'px'
+		});
+	}
+}
+
+$(window).load(function(){
+	verticalCentering();
+});		
+$(window).resize(function(){
+	verticalCentering();
+});	

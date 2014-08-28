@@ -3,14 +3,19 @@
     src: url(../fonts/LeagueGothic-Regular.otf);
 }
 
-body {
+/*body {
     font-family: Arvo, "Helvetica Neue", Arial, Helvetica, Geneva, "sans-serif";
     font-size: 16px;
 
+}*/
+
+
+.landing-background-top {
+  background:url(../img/landing-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
 }
-
-
-
 
 
 /*****/

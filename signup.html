@@ -7,7 +7,7 @@
     <meta name="description" content="BigPro gelevanog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- ///  google font - Open Sans  /// -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700|Oswald:300,400' rel='stylesheet' type='text/css'>
     <!-- ///  font awesome - iconic font  /// -->
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- ///  eleagant font - iconic font  /// -->
@@ -26,50 +26,51 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
     <div class="preloader">
-      <img src="img/rally-logo.png" alt="">
+		<img src="img/rally-logo.png" alt="">
     </div> 
-    <!-- ///  start promo  /// -->
-    <section class="promo static background-top">
-      <div class="promo-block text-center c-soon wow bounceIn transparent" data-wow-duration="2s">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-6 col-sm-offset-3">              
-              <h1 class="lead">Get r/ally for your company</h1>
-              <hr>
-              <!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
-              <div class="alert alert-success alert-dismissable" style="display:none" id="contactUsAlert">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                Thank you!
-              </div>
-             <form role="form">
-                <div class="form-group">
-                    <input type="text" class="form-control" id="adminfirstname" placeholder="First Name">
-                   </div>
-                <div class="form-group">
-               <input type="text" class="form-control" id="adminlastname" placeholder="Last Name">
-                 </div>
-                 <div class="form-group">
-               <input type="email" class="form-control" id="Email" placeholder="youremail@domain.com">
-                 </div>
-                 <div class="form-group">
-               <input type="corporatedomains" class="form-control" id="corporatedomain" placeholder="company domain">
-                 </div>
-                 <p class = "text" style="color: black; text-align: left">Developer Note: This should set up the admin's profile in r/ally and give them access to the admin panel</p>
-                 <p class = "text" style="color: black; text-align: left">Separate multiple domain names by commas</p>
-                 <div class="checkbox">
-                <label>
-                  <input type="checkbox"> <p class = "text" style="color: black; text-align: left"> Allow anyone with an email address from the domains above to join (other wise you need to invite everyone manually)</p>
-                </label>
-                </div>
+    
+	<!-- ///  start promo  /// -->
+    <section class="promo static signup-page-background-top background-top">
+		<div class="promo-block text-center c-soon transparent padded vcentered">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8 col-sm-offset-2">              
+						<h1 class="lead">Get <img src="img/rally-logo.png" alt="" style="margin:-25px 0 0 5px;" /> for your company</h1>
+					</div>
+					<div class="col-sm-6 col-sm-offset-3">
+						<!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
+						<div class="alert alert-success alert-dismissable" style="display:none" id="contactUsAlert">
+							<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+							Thank you!
+						</div>
+						<form role="form">
+							<div class="form-group">
+								<input type="text" class="form-control" id="adminfirstname" placeholder="First Name">
+							</div>
+							<div class="form-group">
+								<input type="text" class="form-control" id="adminlastname" placeholder="Last Name">
+							</div>
+							<div class="form-group">
+								<input type="email" class="form-control" id="Email" placeholder="youremail@domain.com">
+							</div>
+							<div class="form-group">
+								<input type="corporatedomains" class="form-control" id="corporatedomain" placeholder="company domain">
+							</div>
+							<!--<p class = "text" style="color: black; text-align: left">Developer Note: This should set up the admin's profile in r/ally and give them access to the admin panel</p>-->
+							<p class = "text" style="color: black; text-align: left">Separate multiple domain names by commas</p>
+							<div class="checkbox">
+								<label>
+									<input type="checkbox"> <p class = "text" style="color: black; text-align: left"> Allow anyone with an email address from the domains above to join (other wise you need to invite everyone manually)</p>
+								</label>
+							</div>
 
-
-                <a href="team.html" type="submit" class=" button btn btn-primary" >Invite Team Members</a>
-                </form><!-- /input-group -->
-              <span class="help-block" id="helpBlock"></span>
-            </div>
-          </div>
-        </div>
-      </div>           
+							<a href="team.html" type="submit" class="button btn bg-primary" >Invite Team Members</a>
+						</form><!-- /input-group -->
+						<span class="help-block" id="helpBlock"></span>
+					</div>
+				</div>
+			</div>
+		</div>           
     </section>
     
    
