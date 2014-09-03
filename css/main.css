@@ -1661,6 +1661,10 @@ a.list-group-item-danger.active:focus {
 .homepage-center{
     text-align: center;
 }
+
+.center-why-rally{
+    text-align: center;
+}
 .section {
   padding: 70px 0;
 }
