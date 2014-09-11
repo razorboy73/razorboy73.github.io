@@ -2291,8 +2291,8 @@ a.list-group-item-danger.active:focus {
 	box-shadow: 0px 2px 10px 0px #3A495F inset;
 }
 .pricing .price-column .cost span {
-	font-size: 60px;
-	line-height: 68px;
+	font-size: 40px;
+	line-height: 60px;
 	font-family: 'Oswald', arial;
 	background: #E6E6E6;
 	border-radius: 50%;
