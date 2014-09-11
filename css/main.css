@@ -1676,6 +1676,12 @@ a.list-group-item-danger.active:focus {
   margin: 0;
   text-transform: none;
 }
+
+.privacy {
+  margin: 0;
+  text-transform: none;
+  padding-top: 20px;
+}
 .separator {
   width: 0;
   height: 0;
