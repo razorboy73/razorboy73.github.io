@@ -2213,6 +2213,9 @@ a.list-group-item-danger.active:focus {
 .team .text-section {
   text-align: center;
 }
+.text-section-priv{
+    text-align: left;
+}
 .skills .text-section h3,
 .work .text-section h3,
 .team .text-section h3{
