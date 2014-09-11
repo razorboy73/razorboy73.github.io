@@ -1,0 +1,186 @@
+
+    <div class="span12">
+<h1><a href="#bookmark1">Privacy Policy</a></h1><br><br>
+<h1><a href="#bookmark2">Terms of Use</a></h1><br><br>
+<h1><a name="bookmark2">Terms of Use</a></h1>
+      <p>Please read these terms of use carefully (“Terms”). These Terms govern and apply to your access and use of www.rallyyourgoals.com and r/ally's social networking services available via r/ally Inc.s' sites, including, but not limited to, Rallyyourgoals.com and r/ally's mobile apps (collectively, the “Service”). By accessing or using our Service, you agree to be bound all of the terms and conditions described in these Terms. If you do not agree to all of these terms and conditions, do not use our Service. </p>
+      <h2>Use of the Service</h2>
+       <p>r/ally allows user to build better relationships through mutually beneficial collaboration with other app users through our mobile and web-based apps and our site (each an “App”). As long as you comply with these Terms, you have the right to download and install a copy of the App to your mobile device, and to access and use the Service, for your own personal use. You may not: (i) copy, modify or distribute the App for any purpose; (ii) transfer, sublicense, lease, lend, rent or otherwise distribute the App or the Service to any third party; (iii) decompile, reverse-engineer, disassemble, or create derivative works of the App or the Service; (iv) make the functionality of the App or the Service available to multiple users through any means; or (v) use the Service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with these Terms. </p>
+        <p>The following terms apply to any App accessed through or downloaded from any app store or distribution platform (like the Apple App Store or Google Play) where the App is made available (each an “App Provider”). You acknowledge and agree that: </p>
+        <ul>
+        <li>These Terms are concluded between you and r/ally, and not with the App Provider, and that r/ally (not the App Provider), is solely responsible for the App.</li>
+        <li>The App Provider has no obligation to furnish any maintenance and support services with respect to the App.</li>
+        <li>In the event of any failure of the App to conform to any applicable warranty, you may notify the App Provider, and the App Provider will refund the purchase price for the App to you (if applicable) and to the maximum extent permitted by applicable law, the App Provider will have no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of r/ally.</li>
+        <li>The App Provider is not responsible for addressing any claims you have or any claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.</li>
+        <li>In the event of any third party claim that the App or your possession and use of that App infringes that third party’s intellectual property rights, r/ally will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by these Terms.</li>
+        <li>The App Provider, and its subsidiaries, are third party beneficiaries of these Terms as related to your license of the App, and that, upon your acceptance of the terms and conditions of these Terms, the App Provider will have the right (and will be deemed to have accepted the right) to enforce these Terms as related to your license of the App against you as a third party beneficiary thereof.</li>
+        </ul>
+        <p>You must also comply with all applicable third party terms of service when using the App.</p>
+        <p>Our Service may change from time to time and/or we may stop (permanently or temporarily) providing the Service (or features within the Service), possibly without prior notice to you. Our Service may, at some point, include advertisements, which may be targeted to the content or information on the Service, queries made through the Service, or from other information. The types and extent of advertising on the Service are also subject to change over time. In consideration for providing you the Service, you agree that we and our third party providers and partners may place advertising on our Service or in connection with the display of content or information on our Service. Certain features of our Service may be subject to additional terms or conditions, which will be posted with those features.</p>
+        <h2>Creating a r/ally Account</h2>
+        <p>In order to access and use r/ally, you will need to register and create an account (your “Account”). By creating an Account, you represent that you are of legal age to form a binding contract and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. When creating an Account, you may be required to provide certain personal information about yourself and will establish a username and a password. You agree to provide accurate, current and complete information about your Account.</p>
+        <p>When creating an Account, don’t:</p>
+        <ul>
+        <li>provide any false personal information to us (including a false username) or create any account for anyone other than yourself without such other person's permission;</li>
+        <li>use a username that is the name of another person with the intent to impersonate that person;</li>
+        <li>use a username that is subject to rights of another person without appropriate authorization; or</li>
+        <li>use a username that is offensive, vulgar or obscene or otherwise in bad taste.</li>
+        </ul>
+        <p>We reserve the right to suspend or terminate your Account if any information provided during the registration process or thereafter proves to be inaccurate, false or misleading or to reclaim any username that you create through the Service that violates our Terms. You are responsible for maintaining the confidentiality of your password and Account, and agree to notify us if your password is lost, stolen, or disclosed to an unauthorized third party, or otherwise may have been compromised. You are responsible for activities that occur under your Account.</p>
+
+<p>You can link your Account to various webmail, social networking, and other online accounts. You may only link your own accounts. We will access and retrieve your account information from these sites on your behalf (in some cases, by using your username and password) to make certain information or services available to you through the Service. By linking your other accounts, you expressly authorize us to access your account information from those third party accounts, on your behalf as your agent and permit us to access, use and, in some cases, store your account information to accomplish the foregoing.</p>
+<h2>Privacy Policy</h2>
+<p>Please refer to our Privacy Policy for information on how we collect, use and disclose information from our users.</p>
+<h2>Content Submissions</h2>
+<p>Our Service allows you and other users to post, link, store, share and otherwise make available certain information, images, videos, text and/or other content (“Content”). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness. By posting Content to the Service, you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the Service. You agree that this license includes the right for us to make your Content available to other users of the Service, who may also use your Content subject to these Terms. You retain any and all of your rights to any Content you submit, post or display on or through the Service and you are responsible for protecting those rights.</p>
+<p>You can remove Content that you posted by specifically deleting it. In certain instances, however, some Content (such as posts or comments you make) may not be completely removed and copies of your Content may continue to exist on the Service and/or elsewhere. We are not responsible or liable for the removal or deletion of (or the failure to remove or delete) any Content on the Service.</p>
+<p>You represent and warrant that: (i) the Content is yours (you own it) or you have the right to use it and grant us the rights and license as provided in these Terms, and (ii) the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person.</p>
+<p>We ask that you respect our on-line community and other users when posting Content and using the Service. When submitting Content to or otherwise using the Service, you agree not to:</p>
+<ul class="add-bullet">
+<li>submit material that violates a third party’s proprietary rights, including privacy and publicity rights, or that otherwise violates any applicable law;</li>
+<li>publish falsehoods or misrepresentations that could damage us, our users or any third party;</li>
+<li>publish any private information of someone, like their address, phone number, email address, and similar information without their permission;</li>
+<li>submit material that is unlawful, obscene, defamatory, libelous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate;</li>
+<li>post advertisements;</li>
+<li>impersonate another person or represent yourself as affiliated with us, our staff or other industry professionals;</li>
+<li>solicit a user's password or other account information; or</li>
+<li>harvest user names, addresses, or email addresses for any purpose.
+This list is an example and is not intended to be complete or exclusive. We don’t have an obligation to monitor your access to or use of the Service or to review or edit any Content, but we have the right to do so for the purpose of operating the Service, to ensure your compliance with these Terms, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. We reserve the right, at any time and without prior notice, to remove or disable access to any Content, that we consider, in our sole discretion, to be in violation of these Terms or otherwise harmful to the Service.
+</li>
+</ul>
+<h2>Content on the Service</h2>
+<p>The Content available through the Service has not been reviewed, verified or authenticated by us, and may include inaccuracies or false information. We make no representations, warranties, or guarantees in connection with our Service or any Content on the Service, relating to the quality, suitability, truth, accuracy or completeness of any content contained in the Service. You acknowledge sole responsibility for and assume all risk arising from your use or reliance of any Content.</p>
+<h2>Copyright Policy</h2>
+<p>We do not permit copyright infringing activities and infringement of intellectual property rights on the Service and will remove any such Content if properly notified that such Content infringes on another's intellectual property rights. If you are a copyright owner or an agent thereof and believe that any Content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):</p>
+<ul class="add-bullet">
+<li>an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest;</li>
+<li>a description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work;</li>
+<li>identification of the URL or other specific location on the Service where the material that you claim is infringing is located;</li>
+<li>your address, telephone number, and email address;</li>
+<li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;</li>
+<li>a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.</li>
+</ul>
+<p>You can contact our Copyright Agent via email at operations@rallyyourgoals or by mail at Copyright Agent, c/o r/ally Inc, 750 Markham St, Toronto, Ontario, M6G 2M5</p>
+<h2>Unauthorized Activities</h2>
+<p>Our Service may be used and accessed for lawful purposes only. You agree that you will not do any of the following while using or accessing the Service: (i) attempt to access or search the Service or download Content from the Service through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by us or other generally available third party web browsers; (ii) access, tamper with, or use non-public areas of the Service, our computer systems, or the technical delivery systems of our providers; (iii) gather and use information, such as other users’ names, real names, email addresses, available through the Service to transmit any unsolicited advertising, junk mail, spam or other form of solicitation; (iv) use the Service for any commercial purpose or for the benefit of any third party or in any manner not by these Terms; (v) violate any applicable law or regulation; or (vi) encourage or enable any other individual to do any of the foregoing. We reserve the right to investigate and prosecute violations of any of the above and/or involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms.</p>
+<h2>Indemnity</h2>
+<p>You agree to indemnify and hold us harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees) we incur in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party that your use of the Service or the use of the Service by any person using your Account violates any applicable law or regulation, or the rights of any third party.</p>
+<h2>Links to Third Party Sites</h2>
+<p>The Service may include links to other sites and services that are not operated by us. We are providing these links to you only as a convenience and are not responsible for the content or links displayed on such sites. You are responsible for and assume all risk arising from your use or reliance of any third party sites.</p>
+<h2>Ownership</h2>
+<p>Our App and Service is protected by copyright, trademark, and other laws of Canada, the United States and foreign countries. Except as expressly provided in these Terms, we (or our licensors) exclusively own all right, title and interest in and to the App and the Service, including all associated intellectual property rights. You may not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the App or the Service, including in any Content. You acknowledge and agree that any feedback, comments or suggestions you may provide regarding the App or the Service (“Feedback”) will be the sole and exclusive property of r/ally Inc  and you hereby irrevocably assign to us all of your right, title and interest in and to all Feedback.</p>
+<h2>Termination</h2>
+<p>If you breach any of the terms of these Terms, we have the right to suspend or disable your access to or use of the App and/or Service.</p>
+<h2>Disclaimer</h2>
+<p>You understand and agree that the App and the Service are provided to you “AS IS” and on an “AS AVAILABLE” basis. Without limiting the foregoing, WE EXPLICITLY DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. We make no warranty that the App or the Service will meet your requirements or be available on an uninterrupted, secure, or error-free basis.</p>
+<h2>Limitation of Liability</h2>
+<p>OUR TOTAL LIABILITY TO YOU FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNT YOU PAID FOR THE APP. WE WILL NOT BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE APP AND/OR SERVICE; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICE; (iii) ANY CONTENT OBTAINED FROM THE SERVICE; AND (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT WE HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.</p>
+<h2>Exclusions</h2>
+<p>Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.</p>
+<h2>General</h2>
+<p>These Terms are governed by the laws of the province of Ontario, without regard to any conflict of laws rules or principles. Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service. We may revise these Terms from time to time, and we will try to provide at least 30 days notice prior to any new terms taking effect. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms.</p>
+
+<h1><a name="bookmark1">Privacy Policy</a></h1>
+<p>This website is administered by r/ally (collectively referred to as “r/ally”). The primary purpose of this site is to provide an opportunity for  employees to share career goals and aspirations. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. This Privacy Policy provides an overview of how we protect your privacy during your use of the site and describes how we collect, use and disclosure your personal information.
+</p>
+<p>
+The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the "Act"), and any applicable provincial legislation. </p>
+<p>
+
+This Privacy Policy applies only to personal information collected by r/ally . [Be aware that our website may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Policy and for which r/ally have no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.]</p>
+<p>
+
+Please read this Privacy Policy carefully. By submitting your personal information, you signify your agreement to the terms and conditions of this Privacy Policy.</p>
+<p>
+
+What is personal information? Personal information is any information about an identifiable individual.</p>
+
+
+<p>
+
+What personal information do we collect, and why?</p>
+<p>
+We may collect personal contact information (such as your name, address, email address and telephone numbers) when you register with the site and when use or post any information on the site. This information is used to fulfill your request for information, provide you with access to the site and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.  We will retain your subscriber ID and passwords so that upon request by you we may remind you of them.
+</p>
+<p>
+
+We analyze your personal information to determine what is most effective about our site, to help us identify ways to improve it, and eventually, to determine how we can tailor our site to make it more effective.
+</p>
+<p>
+
+We use IP (internet protocol) addresses, to gather demographic and statistical information about our users, for systems administration and to diagnose problems with our servers, and to administer our websites.
+</p>
+<p>
+
+We generally use your personal information for the purposes of : managing, administering, collecting or otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally managing and administering our business; and meeting all relevant Canadian and international regulatory, legal, insurance, audit, security and processing requirements.
+</p>
+<p>
+Occasionally, we may ask our customers to complete market research surveys. If you choose to participate in these surveys and provide your personal information for that purpose, your information will be aggregated as part of the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify you.</p>
+<p>
+
+Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for purposes that are not contemplated in this Privacy Policy, we will identify those purposes at the time of collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.
+</p>
+<p>
+
+
+What about sensitive personal data?</p>
+<p>
+
+We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this notice. The references to “sensitive personal data” are to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, color, nationality, political opinions or convictions, membership of political parties or movements, religious, philosophical or other similar beliefs, trade union membership, physical or mental health or handicap, genetic code, addictions, gender, sexual life (including sexual orientation), pregnancy, property matters or penal or criminal conviction or record (including where a pardon has been granted).</p>
+<p>
+
+Cookies and similar technology</p>
+<p>
+
+We may collect personal information through the use of cookies on the site. Cookies are small files of information that save and retrieve information about your visit to this site - for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. We only use cookies to enable you to be recognised on the site when you log-in, to remember your preferences, operate the site and for analytics purposes to enable us to assess and improve the performance of the site. If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.</p>
+<p>
+
+Will we share this personal information with outside parties?</p>
+<p>
+We will not sell individual information and will share it only with our advisors and with our vendor r/ally for the purposes set out in this Privacy Policy.
+</p>
+<p>
+
+Consent and opt-out policy. In general, we seek consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, we obtain your express opt-in consent to use or disclose sensitive personal information.
+
+If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will keep your contact information on a list so that your request can be honoured. If you provide a complaint to any of our departments, we will collect your contact information and the nature of your complaint, for the purpose of investigating your concerns and responding to you.
+</p>
+<p>
+
+It may take 7 days to fully process your opt-out request.
+</p>
+<p>
+
+You may make an opt-out request or deactivate your account by selecting the emailing us via our vendor r/ally at support@rallyyourgoals.com. Deactivating your account lets you remove your profile without permanently deleting it. When you deactivate your account, other users will no longer see your profile or information (but your information is saved, in case you want to reactivate your account at some point in the future). If you want to delete your information and your account, please with a request that we delete your account and information. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records and as otherwise required by law.
+</p>
+<p>
+
+Safeguards. rally has ensured there are technical, contractual, administrative and physical security measures in place to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide.
+</p>
+<p>
+Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users. r/ally is responsible for personal information you choose to post or submit in any online forum on any of its websites.
+</p>
+<p>
+How to access and correct your personal information. Some of our websites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the website and changing or deleting such information as desired.
+</p>
+<p>
+
+We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
+
+</div>
+    <!--end span12-->
+  </div>
+  <!--end row-->
+</div>
+<!--end row-->
+<div class="row" id="footer">
+
+  <p>&copy;2014 r/ally Inc. All rights reserved.</p>
+</div>
+<!--end row-->
+</div>
+<!--end container-->
+
+
+
+
