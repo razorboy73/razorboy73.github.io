@@ -27,6 +27,10 @@
     <link href="css/main.css" rel="stylesheet">
     <!-- ///  responsive css  /// -->
     <link href="css/responsive.css" rel="stylesheet">
+
+     <link href="//vjs.zencdn.net/4.8/video-js.css" rel="stylesheet">
+      <!-- ///Video.js source and host it on your own servers, or use the free CDN hosted version /// -->
+     <script src="//vjs.zencdn.net/4.8/video.js"></script>
   </head>
   <body>
     <!--[if lt IE 7]>
@@ -112,8 +116,16 @@
 				<h1>Why r/ally?</h1>
 				<div class="separator"></div>
 			</div>
-		   <p class="sub-heading"><iframe width="640" height="480" src="//www.youtube.com/embed/DWP3dIeczTU" frameborder="0" allowfullscreen></iframe></p>
-		</div>
+		    <p class="sub-heading center-why-rally">
+
+                <video id="example_video_1" class="video-js vjs-default-skin"
+                controls preload="auto" width="640" height="480"
+                poster="video/rallyvideologo.png"
+                data-setup='{"example_option":true}'>
+                <source src="video/Rally_0809.mp4" type='video/mp4' />
+                </video>
+            </p>
+        </div>
     </section>
 
     <!-- ///  services  /// -->

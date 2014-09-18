@@ -2676,3 +2676,8 @@ a.list-group-item-danger.active:focus {
 .c-soon .help-block {
   color: #f00;
 }
+
+.video-js {
+    display: block;
+    margin: 0 auto;
+}
