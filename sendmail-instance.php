@@ -10,5 +10,5 @@
 
   mail( "dave@rallyyourgoals.com", "Information Request",
     $emess, "From: $email" );
-  header( "Location: /resources.html" );
+  header( "Location: /thanksforsigningup.html" );
 ?>
