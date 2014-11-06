@@ -66,17 +66,25 @@
 
 						<h3>Get your organization on r/ally</h3>
 
+
+
+
+
+
 						<!-- ///  to start the countdown the only requirement is the data-date attribute /// -->
 
 						<div class="alert alert-success alert-dismissable" style="display:none" id="contactUsAlert">
 							<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 							Thank you!
 						</div>
-						<form class="input-group input-group-lg" id="subscribeForm">
-							<input type="email" class="form-control" data-validation="email" placeholder="Sign up for your organization's invitation to r/ally" id="sEmail" name="sEmail">
-							<span class="input-group-btn">
-								<button class="btn bg-primary" type="submit">Invite Me!</button>
-							</span>              
+						<form  method="post" action="sendmail.php"  class="input-group input-group-lg" id="subscribeForm"   >
+						<input type="text" class="form-control"  placeholder="Name"   id="name" name="name"  />
+                        <input type="text" name="company" class="form-control" placeholder="company"   /><br />
+                        <input type="text" name="phone"  class="form-control" placeholder="phone"  /><br />
+                        <input type="email" class="form-control" placeholder="email" data-validation="email" id="sEmail" name="email">
+                        <span class="input-group-btn">
+                         <button type="submit" button class="btn bg-primary">Invite Me!</button>
+						</span>
 						</form><!-- /input-group -->
 						<span class="help-block" id="helpBlock"></span>
 

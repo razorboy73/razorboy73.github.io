@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<form method="post" action="sendmail.php">
+  Name: <input name="name" type="text" /><br />
+  Company: <input name="company" type="text" /><br />
+  Email: <input name="email" type="text" data-validation="email"/><br />
+  Phone: <input name="phone" type="text" /><br />
+   <br />
+  <input type="submit" />
+</form>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.47/jquery.form-validator.min.js"></script>
+<script> $.validate(); </script>
+</body>
+</html>

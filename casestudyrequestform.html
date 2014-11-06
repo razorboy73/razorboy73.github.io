@@ -44,26 +44,30 @@
                         <!-- /input-group -->
                         <!-- Begin MailChimp Signup Form -->
 
-                            <form class="form-inline validate" role="form"   action="//femme-o-nomics.us4.list-manage.com/subscribe/post?u=c2d5be3387bd2fa68e5192330&amp;id=ac36cea09e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"  target="_blank">
-                            <div class="form-group">
-                                <input type="email" value="" name="EMAIL" class="form-control" placeholder="Email Address" id="mce-EMAIL">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" value="" name="FNAME" class="form-control"  placeholder="First Name" id="mce-FNAME">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" value="" name="LNAME" class="form-control"  placeholder="Last Name" id="mce-LNAME">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" value="" name="COMPANYNAM" class="form-control" placeholder="Company Name" id="mce-COMPANYNAM">
-                            </div>
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                <div style="position: absolute; left: -5000px;"><input type="text" name="b_c2d5be3387bd2fa68e5192330_ac36cea09e" tabindex="-1" value=""></div>
 
-								<button type="submit" class="btn btn-lg bg-primary" value="Submit" name="submit" id="mc-embedded-subscribe">Submit</button>
+                        <div id = "error-message-wrapper">
+                        <form method="post" action="sendmail.php" class="form-inline" role = "form">
+                        <div class="form-group">
+                        <input placeholder="Name" name="name" class="form-control" type="text" /><br />
+                        </div>
+                        <div class="form-group">
+                            <input placeholder="Company" name="company" class="form-control" type="text" /><br />
+                         </div>
+                        <div class="form-group">
+                         <input placeholder="Email" name="email" class="form-control" type="text" data-validation="email"/><br />
+                         </div>
+                        <div class="form-group">
+                         <input name="phone" placeholder="Phone" class="form-control" type="text" /><br />
+                         </div>
+                        <div class="form-group">
+
+                      <button type="submit" class="btn btn-lg bg-primary" value="Submit" name="submit" id="mc-embedded-subscribe">Submit</button>
+
+                            </div>
+
+</form>
 
 
-                            </form>
 
 
 <!--End mc_embed_signup-->
@@ -79,6 +83,14 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
+    <script src="css/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.47/jquery.form-validator.min.js"></script>
+    <script>
+  $.validate({
+    validateOnBlur : false, // disable validation when input looses focus
+    errorMessagePosition : 'top', // Instead of 'element' which is default
+    scrollToTopOnError : false // Set this property to true if you have a long form
+  });
+</script>
+    </body>
 </html>
