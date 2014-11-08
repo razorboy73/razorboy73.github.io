@@ -1983,7 +1983,9 @@ a.list-group-item-danger.active:focus {
   width: 127px;
   height: 127px;
   text-align: center;
+  vertical-align: middle;
   margin: 0 auto;
+  color: #E24A37;
 }	
 .services .icon-wrapper span,
 .skills .icon-wrapper span,
