@@ -10,7 +10,7 @@
   $emess.= "Phone number: ".$phone."\n";
 
 
-  mail( "dave@rallyyourgoals.com", "Instance Request",
+  mail( "dave@rallyyourgoals.com", "Case Study Request",
     $emess, "From: $email" );
-  header( "Location: /thanksforsigningup.html" );
+  header( "Location: /casestudyrequestthankyou.html" );
 ?>
