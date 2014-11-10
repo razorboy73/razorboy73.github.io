@@ -1915,7 +1915,7 @@ a.list-group-item-danger.active:focus {
 .promo-block li{
     text-align: left;
     text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
-	font-weight: 500;
+	font-weight: 800;
 	font-size: 14px;
 	line-height: 34px;
 }
