@@ -2917,3 +2917,12 @@ a.list-group-item-danger.active:focus {
     display: block;
     margin: 0 auto;
 }
+
+/**********
+***Landing Page****
+********/
+
+.landing h2{
+    margin-top:0px;
+    margin-bottom: 20px;
+}
