@@ -839,10 +839,11 @@ fieldset[disabled] .btn-link:focus {
 		border-right: 3px solid #fff;
 	}
 	.table tr.border td{
-		border-top: 1px solid #FFF;
+		/*border-top: 1px solid #FFF;*/
+        border-top: 1px solid #cdcdcd;
 		-webkit-box-shadow: 1px 0px 0px 1px #cdcdcd;
 		-moz-box-shadow: 1px 0px 0px 1px #cdcdcd;
-		box-shadow: 1px 0px 0px 1px #cdcdcd;
+		/*box-shadow: 1px 0px 0px 1px #cdcdcd;*/
 	}
 	.table tr td i {
 		color: #56b510;
