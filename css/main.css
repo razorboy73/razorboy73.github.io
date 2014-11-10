@@ -1879,10 +1879,10 @@ a.list-group-item-danger.active:focus {
   color: #000;
   padding: 0 15px;
 }
-	.promo-block.padded{
-		padding: 20px 0;
-	}
-	
+.promo-block.padded{
+	padding: 20px 0;
+}
+
 .promo-block .lead {
   font-size: 48px;
   text-shadow: 1px 1px rgba(255, 255, 255, 0.6);
@@ -1912,6 +1912,21 @@ a.list-group-item-danger.active:focus {
 	font-weight: 300;
 }
 
+.promo-block li{
+    text-align: left;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 34px;
+}
+
+.promo-block p{
+    text-align: left;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.4);
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 34px;
+}
 .shadow {
     font-size: 18px;
     text-shadow: 1px 1px rgba(255, 255, 255, 0.4);

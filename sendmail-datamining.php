@@ -10,7 +10,7 @@
   $emess.= "Phone number: ".$phone."\n";
 
 
-  mail( "dave@rallyyourgoals.com", "Case Study for Professional Staffing & Recruiting
+  mail( "dave@rallyyourgoals.com", "r/ally Explorer Case Study for Professional Staffing & Recruiting
 Staffing and Recruiting Case Study",
     $emess, "From: $email" );
   header( "Location: /casestudyrequestthankyou.html" );
