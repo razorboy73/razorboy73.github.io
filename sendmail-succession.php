@@ -13,5 +13,5 @@
   mail( "dave@rallyyourgoals.com", "Succession Planning Case Study for Insurance Companies - What Skills Are Walking Out the Door
 ",
     $emess, "From: $email" );
-  header( "Location: /casestudyrequestthankyou.html" );
+  header( "Location: /casestudy-download-succession.html" );
 ?>
