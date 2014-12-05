@@ -13,5 +13,5 @@
   mail( "dave@rallyyourgoals.com", "Demo request r/ally Explorer Case Study for Professional Staffing & Recruiting
 Staffing and Recruiting Case Study",
     $emess, "From: $email" );
-  header( "Location: /demo-download-explorer.html" );
+  header( "Location: /landingpages/demo-download-explorer.html" );
 ?>
