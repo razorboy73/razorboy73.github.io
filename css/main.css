@@ -2278,6 +2278,10 @@ a.list-group-item-danger.active:focus {
     font-style: italic;
 
 }
+
+#landingpage-form-padding{
+    padding-top: 30px;
+}
 /*******Imagine*******/
 .imagine .thumb-list a {
   text-decoration: none;
