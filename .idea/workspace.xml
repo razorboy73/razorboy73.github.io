@@ -33,12 +33,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo-download-explorer.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="demo-download-explorer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.041667" vertical-offset="428" max-vertical-offset="1410">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-              <folding />
+            <state vertical-scroll-proportion="0.76704544" vertical-offset="555" max-vertical-offset="1485">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,18 +48,8 @@
       <file leaf-file-name="demo-infocapture-explorer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-74.041664" vertical-offset="1373" max-vertical-offset="3585">
-              <caret line="210" column="41" selection-start-line="197" selection-start-column="4" selection-end-line="210" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendmail-demo-explorer.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/landingpages/sendmail-demo-explorer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6373938" vertical-offset="0" max-vertical-offset="353">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state vertical-scroll-proportion="-12.083333" vertical-offset="1585" max-vertical-offset="3630">
+              <caret line="125" column="117" selection-start-line="125" selection-start-column="117" selection-end-line="125" selection-end-column="193" />
               <folding />
             </state>
           </provider>
@@ -131,15 +123,15 @@
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/notused/thanksforsigningup.html" />
         <option value="$PROJECT_DIR$/thanksforsigningup.html" />
+        <option value="$PROJECT_DIR$/landingpages/sendmail-demo-explorer.php" />
         <option value="$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html" />
         <option value="$PROJECT_DIR$/landingpages/demo-download-explorer.html" />
-        <option value="$PROJECT_DIR$/landingpages/sendmail-demo-explorer.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1193" />
-    <option name="y" value="186" />
+    <option name="x" value="-1274" />
+    <option name="y" value="250" />
     <option name="width" value="1180" />
     <option name="height" value="512" />
   </component>
@@ -451,7 +443,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1193" y="186" width="1180" height="512" extended-state="0" />
+    <frame x="-1274" y="250" width="1180" height="512" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -803,27 +795,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
+    <entry file="file://$PROJECT_DIR$/landingpages/sendmail-demo-explorer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.041667" vertical-offset="428" max-vertical-offset="1410">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.6373938" vertical-offset="0" max-vertical-offset="353">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-74.041664" vertical-offset="1373" max-vertical-offset="3585">
-          <caret line="210" column="41" selection-start-line="197" selection-start-column="4" selection-end-line="210" selection-end-column="41" />
+        <state vertical-scroll-proportion="-12.083333" vertical-offset="1585" max-vertical-offset="3630">
+          <caret line="125" column="117" selection-start-line="125" selection-start-column="117" selection-end-line="125" selection-end-column="193" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpages/sendmail-demo-explorer.php">
+    <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6373938" vertical-offset="0" max-vertical-offset="353">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
+        <state vertical-scroll-proportion="0.76704544" vertical-offset="555" max-vertical-offset="1485">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
