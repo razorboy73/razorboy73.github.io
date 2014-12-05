@@ -23,101 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="casestudy-download-explorer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-download-explorer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.791666" vertical-offset="335" max-vertical-offset="1395">
-              <caret line="62" column="71" selection-start-line="62" selection-start-column="71" selection-end-line="62" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="casestudy-infocapture-succession.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-infocapture-succession.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="1395" max-vertical-offset="3465">
-              <caret line="108" column="57" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1380">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thanksforsigningup.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thanksforsigningup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37695312" vertical-offset="497" max-vertical-offset="1305">
-              <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="casestudy-infocapture-hctm.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-infocapture-hctm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.583333" vertical-offset="883" max-vertical-offset="3465">
-              <caret line="79" column="142" selection-start-line="79" selection-start-column="142" selection-end-line="79" selection-end-column="142" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="casestudy-infocapture-search.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="1005" max-vertical-offset="3435">
-              <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="casestudy-infocapture-explorer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-infocapture-explorer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.7916665" vertical-offset="1070" max-vertical-offset="3585">
-              <caret line="79" column="135" selection-start-line="79" selection-start-column="135" selection-end-line="79" selection-end-column="135" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="33656" max-vertical-offset="44115">
-              <caret line="2278" column="0" selection-start-line="2278" selection-start-column="0" selection-end-line="2278" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.44946808" vertical-offset="32764" max-vertical-offset="44115">
+              <caret line="2173" column="26" selection-start-line="2173" selection-start-column="26" selection-end-line="2173" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casestudyinfocapture.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notused/casestudyinfocapture.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.875" vertical-offset="2946" max-vertical-offset="4485">
-              <caret line="217" column="15" selection-start-line="217" selection-start-column="15" selection-end-line="217" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="8154" max-vertical-offset="10155">
+              <caret line="636" column="72" selection-start-line="636" selection-start-column="72" selection-end-line="636" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -188,10 +108,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1266" />
-    <option name="y" value="52" />
-    <option name="width" value="1355" />
-    <option name="height" value="718" />
+    <option name="x" value="-1193" />
+    <option name="y" value="186" />
+    <option name="width" value="1180" />
+    <option name="height" value="512" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -219,7 +139,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -235,6 +154,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rallyvanity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rallyvanity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rallyvanity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landingpages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,6 +201,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,11 +221,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/landingpages" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/icons" />
       <recent name="$PROJECT_DIR$/datasheet" />
-      <recent name="$PROJECT_DIR$/video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -386,9 +320,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -410,6 +341,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -487,16 +421,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1266" y="52" width="1355" height="718" extended-state="0" />
+    <frame x="-1193" y="186" width="1180" height="512" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2817974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3778559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -505,9 +438,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -530,46 +464,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4230">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/video-js.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.8076925" vertical-offset="6528" max-vertical-offset="14610">
-          <caret line="447" column="38" selection-start-line="447" selection-start-column="19" selection-end-line="447" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sendmail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/plugins/scrollTo/jquery.scrollTo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="355">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/rallyvideologo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notused/index-multi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875" vertical-offset="420" max-vertical-offset="7410">
-          <caret line="55" column="33" selection-start-line="49" selection-start-column="28" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/elegant-font/fonts/ElegantIcons.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.6538463" vertical-offset="1736" max-vertical-offset="27555">
@@ -702,15 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0" vertical-offset="3444" max-vertical-offset="10155">
-          <caret line="252" column="72" selection-start-line="252" selection-start-column="72" selection-end-line="252" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="2940">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.916667" vertical-offset="1256" max-vertical-offset="1815">
           <caret line="106" column="15" selection-start-line="99" selection-start-column="4" selection-end-line="112" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1425">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2880">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
@@ -761,15 +641,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.6666665" vertical-offset="446" max-vertical-offset="1005">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notused/casestudyinfocapture.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.875" vertical-offset="2946" max-vertical-offset="4485">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2946" max-vertical-offset="4485">
           <caret line="217" column="15" selection-start-line="217" selection-start-column="15" selection-end-line="217" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="1350">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0416666" vertical-offset="4745" max-vertical-offset="5280">
           <caret line="318" column="13" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="13.958333" vertical-offset="860" max-vertical-offset="1395">
           <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.56640625" vertical-offset="860" max-vertical-offset="1395">
           <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,47 +683,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.009345794" vertical-offset="860" max-vertical-offset="1395">
           <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-download-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.791666" vertical-offset="335" max-vertical-offset="1395">
+        <state vertical-scroll-proportion="0.0" vertical-offset="335" max-vertical-offset="1395">
           <caret line="62" column="71" selection-start-line="62" selection-start-column="71" selection-end-line="62" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="1005" max-vertical-offset="3435">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="3435">
           <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-hctm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.583333" vertical-offset="883" max-vertical-offset="3465">
-          <caret line="79" column="142" selection-start-line="79" selection-start-column="142" selection-end-line="79" selection-end-column="142" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="33656" max-vertical-offset="44115">
-          <caret line="2278" column="0" selection-start-line="2278" selection-start-column="0" selection-end-line="2278" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-explorer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.7916665" vertical-offset="1070" max-vertical-offset="3585">
-          <caret line="79" column="135" selection-start-line="79" selection-start-column="135" selection-end-line="79" selection-end-column="135" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,30 +704,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="524">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1380">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1380">
           <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-succession.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="1395" max-vertical-offset="3465">
-          <caret line="108" column="57" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thanksforsigningup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37695312" vertical-offset="497" max-vertical-offset="1305">
-          <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="1305">
+          <caret line="43" column="86" selection-start-line="43" selection-start-column="86" selection-end-line="43" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notused/index-multi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875" vertical-offset="420" max-vertical-offset="7410">
+          <caret line="55" column="33" selection-start-line="49" selection-start-column="28" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-succession.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6838906" vertical-offset="1395" max-vertical-offset="3465">
+          <caret line="108" column="57" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rally-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectstaffing.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/shadow-reverse.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/shadow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rally-logo-large.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-hctm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="3465">
+          <caret line="79" column="142" selection-start-line="79" selection-start-column="142" selection-end-line="79" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-explorer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32670453" vertical-offset="1070" max-vertical-offset="3585">
+          <caret line="79" column="135" selection-start-line="79" selection-start-column="135" selection-end-line="79" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8154" max-vertical-offset="10155">
+          <caret line="636" column="72" selection-start-line="636" selection-start-column="72" selection-end-line="636" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.44946808" vertical-offset="32764" max-vertical-offset="44115">
+          <caret line="2173" column="26" selection-start-line="2173" selection-start-column="26" selection-end-line="2173" selection-end-column="26" />
           <folding />
         </state>
       </provider>
