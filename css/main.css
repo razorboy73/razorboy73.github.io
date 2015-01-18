@@ -2594,6 +2594,7 @@ a.list-group-item-danger.active:focus {
   font-size: 14px;
   line-height: 22px;
   margin-bottom: 25px;
+  text-align: left;
 }
 
 /***** get-rally *****/
