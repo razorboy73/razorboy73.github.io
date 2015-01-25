@@ -661,7 +661,9 @@ fieldset[disabled] .btn-link:focus {
 		text-decoration: underline;
 	}
 
-
+.btn-learn-more{
+    margin: 10px ;
+}
 /***** pricing *****/
 .pricing .price-column {
   text-align: center;

@@ -232,6 +232,19 @@
 		});
 	}
 
+    function showMoreContent(){
+        $( "button" ).click(function() {
+
+            $(this).prev().slideToggle( "slow" );
+           if ($(this).text() === 'Learn More') {
+                $(this).text('Show Less');
+            }
+            else {
+                $(this).text('Learn More');
+                }
+            });
+
+    }
     return {
       init: function () {
       	preloader()
@@ -244,6 +257,7 @@
         placeholderIE()
         validateAndSend()
 		addInviteField()
+        showMoreContent()
       }
     }
   }();
