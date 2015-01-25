@@ -132,6 +132,7 @@ a:focus {
 }
 .nav-tabs {
   border-bottom: 1px solid #dddddd;
+  text-align: center;
 }
 .nav-tabs > li > a:hover {
   border-color: #eeeeee #eeeeee #dddddd;
@@ -144,6 +145,14 @@ a:focus {
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
 }
+/*josh fix*/
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
