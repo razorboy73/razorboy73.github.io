@@ -2951,3 +2951,19 @@ a.list-group-item-danger.active:focus {
     margin-top:0px;
     margin-bottom: 20px;
 }
+
+
+
+
+
+
+.carousel-control.left {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0) 0px, transparent 100%);
+    background-repeat: repeat-x;
+}
+
+
+.carousel-control.right {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0) 0px, transparent 100%);
+    background-repeat: repeat-x;
+}
