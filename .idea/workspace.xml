@@ -84,11 +84,19 @@
       <file leaf-file-name="resources.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.312" vertical-offset="3144" max-vertical-offset="5280">
-              <caret line="230" column="2" selection-start-line="230" selection-start-column="2" selection-end-line="230" selection-end-column="2" />
-              <folding>
-                <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.83966243" vertical-offset="1567" max-vertical-offset="5565">
+              <caret line="131" column="132" selection-start-line="131" selection-start-column="132" selection-end-line="131" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.5" vertical-offset="1749" max-vertical-offset="10155">
+              <caret line="143" column="14" selection-start-line="128" selection-start-column="16" selection-end-line="143" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -225,20 +233,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rallyvanity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rallyvanity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rallyvanity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notused" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -822,13 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.875" vertical-offset="8154" max-vertical-offset="10155">
-          <caret line="545" column="32" selection-start-line="545" selection-start-column="32" selection-end-line="545" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notused/team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.48397437" vertical-offset="646" max-vertical-offset="1380">
@@ -900,13 +887,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.5" vertical-offset="1749" max-vertical-offset="10155">
+          <caret line="143" column="14" selection-start-line="128" selection-start-column="16" selection-end-line="143" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.312" vertical-offset="3144" max-vertical-offset="5280">
-          <caret line="230" column="2" selection-start-line="230" selection-start-column="2" selection-end-line="230" selection-end-column="2" />
-          <folding>
-            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.83966243" vertical-offset="1567" max-vertical-offset="5565">
+          <caret line="131" column="132" selection-start-line="131" selection-start-column="132" selection-end-line="131" selection-end-column="132" />
+          <folding />
         </state>
       </provider>
     </entry>
