@@ -1225,6 +1225,7 @@ input[type="date"] {
 .checkbox-inline input[type="checkbox"] {
   float: left;
   margin-left: -20px;
+  vertical-align: middle;
 }
 .radio + .radio,
 .checkbox + .checkbox {
@@ -2966,4 +2967,12 @@ a.list-group-item-danger.active:focus {
 .carousel-control.right {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0) 0px, transparent 100%);
     background-repeat: repeat-x;
+}
+
+
+
+.radio-button-text-landing {
+  font-size: 24px;
+  text-shadow: 1px 1px rgba(255, 255, 255, 0.6);
+  font-weight: 300;
 }
