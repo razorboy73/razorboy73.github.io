@@ -68,8 +68,8 @@
       <file leaf-file-name="indexv2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indexv2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25757575" vertical-offset="1818" max-vertical-offset="6840">
-              <caret line="128" column="129" selection-start-line="128" selection-start-column="129" selection-end-line="128" selection-end-column="129" />
+            <state vertical-scroll-proportion="0.56060606" vertical-offset="2283" max-vertical-offset="6840">
+              <caret line="167" column="127" selection-start-line="167" selection-start-column="127" selection-end-line="167" selection-end-column="127" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -155,8 +155,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="172" />
-    <option name="y" value="446" />
+    <option name="x" value="405" />
+    <option name="y" value="61" />
     <option name="width" value="995" />
     <option name="height" value="582" />
   </component>
@@ -454,7 +454,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="172" y="446" width="995" height="582" extended-state="0" />
+    <frame x="405" y="61" width="995" height="582" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -873,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexv2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25757575" vertical-offset="1818" max-vertical-offset="6840">
-          <caret line="128" column="129" selection-start-line="128" selection-start-column="129" selection-end-line="128" selection-end-column="129" />
+        <state vertical-scroll-proportion="0.56060606" vertical-offset="2283" max-vertical-offset="6840">
+          <caret line="167" column="127" selection-start-line="167" selection-start-column="127" selection-end-line="167" selection-end-column="127" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
