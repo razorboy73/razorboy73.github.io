@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo-infocapture-explorer.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="demo-infocapture-explorer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39411765" vertical-offset="1066" max-vertical-offset="3510">
+            <state vertical-scroll-proportion="-5.5833335" vertical-offset="1066" max-vertical-offset="3510">
               <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexv2.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="indexv2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indexv2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4583335" vertical-offset="2134" max-vertical-offset="8580">
-              <caret line="151" column="21" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="91" />
+            <state vertical-scroll-proportion="0.84729064" vertical-offset="3908" max-vertical-offset="8595">
+              <caret line="272" column="156" selection-start-line="272" selection-start-column="156" selection-end-line="272" selection-end-column="156" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -158,18 +158,18 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/bootstrap-3.1.1/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/resources.html" />
-        <option value="$PROJECT_DIR$/indexv2.html" />
         <option value="$PROJECT_DIR$/casestudy-infocapture-search.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html" />
+        <option value="$PROJECT_DIR$/indexv2.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
-    <option name="y" value="55" />
+    <option name="x" value="47" />
+    <option name="y" value="23" />
     <option name="width" value="1220" />
-    <option name="height" value="500" />
+    <option name="height" value="389" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -451,7 +451,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="55" width="1220" height="500" extended-state="0" />
+    <frame x="47" y="23" width="1220" height="389" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -459,7 +459,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27758914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27758914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -841,17 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexv2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4583335" vertical-offset="2134" max-vertical-offset="8580">
-          <caret line="151" column="21" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.846154" vertical-offset="44362" max-vertical-offset="44775">
@@ -862,7 +851,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39411765" vertical-offset="1066" max-vertical-offset="3510">
+        <state vertical-scroll-proportion="-5.5833335" vertical-offset="1066" max-vertical-offset="3510">
           <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -879,6 +868,17 @@
             <element signature="tag#div#3;tag#div#0;tag#div#1;tag#form#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#4;tag#div#0;tag#div#1;tag#form#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#5;tag#div#0;tag#div#1;tag#form#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexv2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84729064" vertical-offset="3908" max-vertical-offset="8595">
+          <caret line="272" column="156" selection-start-line="272" selection-start-column="156" selection-end-line="272" selection-end-column="156" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
