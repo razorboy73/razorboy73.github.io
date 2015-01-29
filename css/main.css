@@ -2975,4 +2975,6 @@ a.list-group-item-danger.active:focus {
   font-size: 24px;
   text-shadow: 1px 1px rgba(255, 255, 255, 0.6);
   font-weight: 300;
+  text-align: left;
+  text-indent: 1em;
 }
