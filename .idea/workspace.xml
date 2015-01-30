@@ -76,11 +76,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casestudy-download-search.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="casestudy-download-search.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/casestudy-download-search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33834586" vertical-offset="555" max-vertical-offset="1395">
+            <state vertical-scroll-proportion="-5.625" vertical-offset="555" max-vertical-offset="1395">
               <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="casestudy-download-explorer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/casestudy-download-explorer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.875" vertical-offset="645" max-vertical-offset="1395">
+              <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo-download-explorer.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18796992" vertical-offset="675" max-vertical-offset="1485">
+              <caret line="50" column="81" selection-start-line="50" selection-start-column="81" selection-end-line="50" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -115,7 +135,6 @@
         <option value="$PROJECT_DIR$/casestudyinfocapture-search.html" />
         <option value="$PROJECT_DIR$/sendmail-datamining.php" />
         <option value="$PROJECT_DIR$/casestudy-download-succession.html" />
-        <option value="$PROJECT_DIR$/casestudy-download-explorer.html" />
         <option value="$PROJECT_DIR$/notused/blog-home.html" />
         <option value="$PROJECT_DIR$/notused/coming-soon.html" />
         <option value="$PROJECT_DIR$/notused/signup.html" />
@@ -126,7 +145,6 @@
         <option value="$PROJECT_DIR$/casestudy-infocapture-succession.html" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/notused/thanksforsigningup.html" />
-        <option value="$PROJECT_DIR$/landingpages/demo-download-explorer.html" />
         <option value="$PROJECT_DIR$/indexrevamp.html" />
         <option value="$PROJECT_DIR$/js/josh.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
@@ -147,6 +165,8 @@
         <option value="$PROJECT_DIR$/resources.html" />
         <option value="$PROJECT_DIR$/sendmail-search.php" />
         <option value="$PROJECT_DIR$/casestudy-download-search.html" />
+        <option value="$PROJECT_DIR$/casestudy-download-explorer.html" />
+        <option value="$PROJECT_DIR$/landingpages/demo-download-explorer.html" />
       </list>
     </option>
   </component>
@@ -637,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-download-explorer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="335" max-vertical-offset="1395">
-          <caret line="62" column="71" selection-start-line="62" selection-start-column="71" selection-end-line="62" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="524">
@@ -771,14 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="375" max-vertical-offset="1485">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1666667" vertical-offset="479" max-vertical-offset="3300">
@@ -901,8 +906,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-download-search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33834586" vertical-offset="555" max-vertical-offset="1395">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="555" max-vertical-offset="1395">
           <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-download-explorer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="645" max-vertical-offset="1395">
+          <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18796992" vertical-offset="675" max-vertical-offset="1485">
+          <caret line="50" column="81" selection-start-line="50" selection-start-column="81" selection-end-line="50" selection-end-column="81" />
           <folding />
         </state>
       </provider>
