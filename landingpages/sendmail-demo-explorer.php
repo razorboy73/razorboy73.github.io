@@ -14,7 +14,7 @@
   $emess.= "demo wanted: ".$demo_wanted."\n";
 
 
-  mail( "josh@rallyyourgoals.com", "Demo request",
+  mail( "dave@rallyyourgoals.com", "Demo request",
     $emess, "From: $email" );
   header( "Location: /landingpages/demo-download-explorer.html" );
 ?>
