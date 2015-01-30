@@ -84,11 +84,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo-infocapture-demo-original.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="demo-infocapture-demo-original.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-demo-original.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3324397" vertical-offset="2711" max-vertical-offset="3600">
+            <state vertical-scroll-proportion="-2.48" vertical-offset="2711" max-vertical-offset="3600">
               <caret line="189" column="41" selection-start-line="189" selection-start-column="36" selection-end-line="189" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rallyvanity.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rallyvanity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.48" vertical-offset="5636" max-vertical-offset="7125">
+              <caret line="384" column="149" selection-start-line="384" selection-start-column="144" selection-end-line="384" selection-end-column="149" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tosvanity.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tosvanity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.48" vertical-offset="641" max-vertical-offset="4110">
+              <caret line="51" column="59" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="privacyvanity.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/privacyvanity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33142856" vertical-offset="3034" max-vertical-offset="3765">
+              <caret line="210" column="23" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -127,8 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/form.html" />
-        <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/casestudyrequest.html" />
         <option value="$PROJECT_DIR$/coming-soon.html" />
         <option value="$PROJECT_DIR$/form2.html" />
@@ -178,6 +206,8 @@
         <option value="$PROJECT_DIR$/landingpages/demo-download-explorer.html" />
         <option value="$PROJECT_DIR$/landingpages/demo-infocapture-explorer.html" />
         <option value="$PROJECT_DIR$/landingpages/demo-infocapture-demo-original.html" />
+        <option value="$PROJECT_DIR$/tosvanity.html" />
+        <option value="$PROJECT_DIR$/privacyvanity.html" />
       </list>
     </option>
   </component>
@@ -572,21 +602,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/icons/icon13-180x132.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/icons/icon12-180x152.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/icons/icon10-182x126.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/icons/icon14-180x112.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -954,8 +969,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/landingpages/demo-infocapture-demo-original.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3324397" vertical-offset="2711" max-vertical-offset="3600">
+        <state vertical-scroll-proportion="-2.48" vertical-offset="2711" max-vertical-offset="3600">
           <caret line="189" column="41" selection-start-line="189" selection-start-column="36" selection-end-line="189" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rallyvanity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.48" vertical-offset="5636" max-vertical-offset="7125">
+          <caret line="384" column="149" selection-start-line="384" selection-start-column="144" selection-end-line="384" selection-end-column="149" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tosvanity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.48" vertical-offset="641" max-vertical-offset="4110">
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacyvanity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33142856" vertical-offset="3034" max-vertical-offset="3765">
+          <caret line="210" column="23" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="23" />
           <folding />
         </state>
       </provider>
