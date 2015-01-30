@@ -8,7 +8,7 @@
   $emess.= "Email : ".$email."\n";
 
 
-  mail( "dave@rallyyourgoals.com", "Instance Request",
+  mail( "josh@rallyyourgoals.com", "Instance Request",
     $emess, "From: $email" );
   header( "Location: /thanksforsigningup.html" );
 ?>
