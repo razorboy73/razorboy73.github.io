@@ -9,6 +9,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/landingpages/demo-infocapture-explorer-original.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/notused/thanksforsigningup.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html" afterPath="$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rallyvanity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,21 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casestudy-infocapture-explorer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/casestudy-infocapture-explorer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.083333" vertical-offset="2644" max-vertical-offset="3585">
-              <caret line="194" column="14" selection-start-line="188" selection-start-column="34" selection-end-line="188" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="casestudy-infocapture-search-semiconductor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72068965" vertical-offset="541" max-vertical-offset="3315">
-              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.37931034" vertical-offset="805" max-vertical-offset="3330">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -109,8 +100,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-269" />
-    <option name="y" value="23" />
+    <option name="x" value="44" />
+    <option name="y" value="373" />
     <option name="width" value="1239" />
     <option name="height" value="439" />
   </component>
@@ -419,7 +410,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-269" y="23" width="1239" height="439" extended-state="0" />
+    <frame x="44" y="373" width="1239" height="439" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -834,8 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72068965" vertical-offset="541" max-vertical-offset="3315">
-          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.37931034" vertical-offset="805" max-vertical-offset="3330">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
           <folding />
         </state>
       </provider>
