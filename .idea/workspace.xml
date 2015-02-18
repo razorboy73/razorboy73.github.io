@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eadd55-46b1-48e4-92c0-84a4fd6dbb7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datasheet/rally-semiconductor-case-study.pdf" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/Global-Consulting-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/rally-Staffing-Recruitment-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexrevamp.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexv2.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/landingpages/demo-infocapture-explorer-original.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/notused/thanksforsigningup.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" afterPath="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
     </list>
     <ignored path="rallyvanity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,28 +36,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="8415">
+            <state vertical-scroll-proportion="-3.0833333" vertical-offset="736" max-vertical-offset="8415">
               <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casestudy-infocapture-search-semiconductor.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="casestudy-infocapture-search-semiconductor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="655" max-vertical-offset="3330">
+            <state vertical-scroll-proportion="-1.8321918" vertical-offset="1330" max-vertical-offset="3330">
               <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instructions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/instructions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="4305">
-              <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -67,17 +56,17 @@
       <file leaf-file-name="casestudy-download-search-semiconductor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/casestudy-download-search-semiconductor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1395">
-              <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+            <state vertical-scroll-proportion="-8.75" vertical-offset="480" max-vertical-offset="1395">
+              <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmail-search-semiconductor.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sendmail-search-semiconductor.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sendmail-search-semiconductor.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56962025" vertical-offset="0" max-vertical-offset="316">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
@@ -120,10 +109,10 @@
         <option value="$PROJECT_DIR$/index-original.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources.html" />
-        <option value="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
         <option value="$PROJECT_DIR$/instructions.html" />
         <option value="$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html" />
         <option value="$PROJECT_DIR$/sendmail-search-semiconductor.php" />
+        <option value="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
       </list>
     </option>
   </component>
@@ -524,7 +513,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1239" height="439" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -532,7 +521,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3550543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3550543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -895,7 +884,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="8415">
+        <state vertical-scroll-proportion="-3.0833333" vertical-offset="736" max-vertical-offset="8415">
           <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
           <folding />
         </state>
@@ -909,34 +898,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-download-search-semiconductor.html">
+    <entry file="file://$PROJECT_DIR$/sendmail-search-semiconductor.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1395">
-          <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/instructions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="4305">
+        <state vertical-scroll-proportion="0.46232876" vertical-offset="705" max-vertical-offset="4305">
           <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-download-search-semiconductor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="480" max-vertical-offset="1395">
+          <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="655" max-vertical-offset="3330">
+        <state vertical-scroll-proportion="-1.8321918" vertical-offset="1330" max-vertical-offset="3330">
           <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sendmail-search-semiconductor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56962025" vertical-offset="0" max-vertical-offset="316">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
