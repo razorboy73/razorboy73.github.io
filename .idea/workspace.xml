@@ -8,7 +8,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexv2.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/landingpages/demo-infocapture-explorer-original.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/notused/thanksforsigningup.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" afterPath="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="rallyvanity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,20 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0833333" vertical-offset="736" max-vertical-offset="8415">
-              <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.6792453" vertical-offset="5100" max-vertical-offset="8415">
+              <caret line="352" column="142" selection-start-line="352" selection-start-column="142" selection-end-line="352" selection-end-column="142" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casestudy-infocapture-search-semiconductor.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="casestudy-infocapture-search-semiconductor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8321918" vertical-offset="1330" max-vertical-offset="3330">
+            <state vertical-scroll-proportion="26.666666" vertical-offset="1435" max-vertical-offset="3330">
               <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
               <folding />
             </state>
@@ -56,7 +56,7 @@
       <file leaf-file-name="casestudy-download-search-semiconductor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/casestudy-download-search-semiconductor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75" vertical-offset="480" max-vertical-offset="1395">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="585" max-vertical-offset="1395">
               <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
               <folding />
             </state>
@@ -76,7 +76,7 @@
       <file leaf-file-name="resources.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="738" max-vertical-offset="5520">
+            <state vertical-scroll-proportion="-5.5" vertical-offset="738" max-vertical-offset="5520">
               <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
               <folding />
             </state>
@@ -107,12 +107,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index-original.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources.html" />
         <option value="$PROJECT_DIR$/instructions.html" />
         <option value="$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html" />
         <option value="$PROJECT_DIR$/sendmail-search-semiconductor.php" />
         <option value="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -120,8 +120,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="23" />
+    <option name="x" value="5" />
+    <option name="y" value="346" />
     <option name="width" value="1239" />
     <option name="height" value="439" />
   </component>
@@ -512,7 +512,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1239" height="439" extended-state="0" />
+    <frame x="5" y="346" width="1239" height="439" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -818,13 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendmail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="413">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landingpages/demo-download-explorer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.4170616" vertical-offset="0" max-vertical-offset="1305">
@@ -882,22 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0833333" vertical-offset="736" max-vertical-offset="8415">
-          <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="738" max-vertical-offset="5520">
-          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sendmail-search-semiconductor.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
@@ -914,18 +891,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="26.666666" vertical-offset="1435" max-vertical-offset="3330">
+          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/casestudy-download-search-semiconductor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75" vertical-offset="480" max-vertical-offset="1395">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="585" max-vertical-offset="1395">
           <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/casestudy-infocapture-search-semiconductor.html">
+    <entry file="file://$PROJECT_DIR$/sendmail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8321918" vertical-offset="1330" max-vertical-offset="3330">
-          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5" vertical-offset="738" max-vertical-offset="5520">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6792453" vertical-offset="5100" max-vertical-offset="8415">
+          <caret line="352" column="142" selection-start-line="352" selection-start-column="142" selection-end-line="352" selection-end-column="142" />
           <folding />
         </state>
       </provider>
