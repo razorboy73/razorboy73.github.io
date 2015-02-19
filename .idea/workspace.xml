@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eadd55-46b1-48e4-92c0-84a4fd6dbb7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/originalfaq.txt" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/Global-Consulting-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/rally-Staffing-Recruitment-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexrevamp.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexv2.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/landingpages/demo-infocapture-explorer-original.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/notused/thanksforsigningup.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
     </list>
     <ignored path="rallyvanity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,20 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="faq.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="faq.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="68.541664" vertical-offset="6805" max-vertical-offset="7275">
-              <caret line="344" column="6" selection-start-line="344" selection-start-column="6" selection-end-line="344" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.5531915" vertical-offset="2215" max-vertical-offset="7275">
+              <caret line="165" column="20" selection-start-line="165" selection-start-column="20" selection-end-line="165" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="originalfaq.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="originalfaq.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/originalfaq.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.0668015" vertical-offset="436" max-vertical-offset="2535">
+            <state vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="2535">
               <caret line="163" column="77" selection-start-line="163" selection-start-column="77" selection-end-line="163" selection-end-column="77" />
               <folding />
             </state>
@@ -93,8 +93,8 @@
         <option value="$PROJECT_DIR$/casestudy-download-search-semiconductor.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources.html" />
-        <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/originalfaq.txt" />
+        <option value="$PROJECT_DIR$/faq.html" />
       </list>
     </option>
   </component>
@@ -503,7 +503,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21137686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21137686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -895,18 +895,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
+    <entry file="file://$PROJECT_DIR$/originalfaq.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="68.541664" vertical-offset="6805" max-vertical-offset="7275">
-          <caret line="344" column="6" selection-start-line="344" selection-start-column="6" selection-end-line="344" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="2535">
+          <caret line="163" column="77" selection-start-line="163" selection-start-column="77" selection-end-line="163" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/originalfaq.txt">
+    <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.0668015" vertical-offset="436" max-vertical-offset="2535">
-          <caret line="163" column="77" selection-start-line="163" selection-start-column="77" selection-end-line="163" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.5531915" vertical-offset="2215" max-vertical-offset="7275">
+          <caret line="165" column="20" selection-start-line="165" selection-start-column="20" selection-end-line="165" selection-end-column="20" />
           <folding />
         </state>
       </provider>
