@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eadd55-46b1-48e4-92c0-84a4fd6dbb7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/Global-Consulting-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/datasheet/rally-Staffing-Recruitment-Case-Study.pdf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexrevamp.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/indexv2.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/landingpages/demo-infocapture-explorer-original.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/notused/thanksforsigningup.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
     </list>
     <ignored path="rallyvanity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +46,8 @@
       <file leaf-file-name="faq.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13013698" vertical-offset="3457" max-vertical-offset="6060">
-              <caret line="233" column="7" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.48630136" vertical-offset="4043" max-vertical-offset="6450">
+              <caret line="279" column="40" selection-start-line="279" selection-start-column="40" selection-end-line="279" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -887,8 +886,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13013698" vertical-offset="3457" max-vertical-offset="6060">
-          <caret line="233" column="7" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.48630136" vertical-offset="4043" max-vertical-offset="6450">
+          <caret line="279" column="40" selection-start-line="279" selection-start-column="40" selection-end-line="279" selection-end-column="40" />
           <folding />
         </state>
       </provider>
